@@ -22,12 +22,12 @@ As always, the best place to start is with the official documentation. There you
 
 #### Intros to Flow, Cadence and the Ecosystem
 
--[Taking your First Steps with Cadence](https://joshuahannan.medium.com/taking-your-first-steps-with-cadence-19dde86bbd0)
--[CryptoDappy](https://www.cryptodappy.com/)
+- [Taking your First Steps with Cadence](https://joshuahannan.medium.com/taking-your-first-steps-with-cadence-19dde86bbd0)
+- [CryptoDappy](https://www.cryptodappy.com/)
 
 #### Best Practices
 
-[How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
+- [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
 
 #### NFTs
 
