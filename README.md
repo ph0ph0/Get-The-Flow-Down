@@ -50,10 +50,14 @@ Morgan's (Decentology) vids
 
 ## Contracts, Code and Repos
 
-- [ KittyItems](https://github.com/onflow/kitty-items)
+- [KittyItems](https://github.com/onflow/kitty-items)
 - [CryptoDappy](https://github.com/bebner/crypto-dappy)
 - [Flow Core Contracts](https://github.com/onflow/flow-core-contracts)
 - [NBA Top Shot](https://github.com/dapperlabs/nba-smart-contracts)
+
+### Bootcamp Repos
+
+- [Decentology Fast Floward](https://github.com/decentology/fast-floward-1)
 
 FastFloward
 DappStarter
