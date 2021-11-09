@@ -38,9 +38,9 @@ As always, the best place to start is with the official documentation. There you
 
 #### YouTube Channels
 
--[Decentology](https://www.youtube.com/c/Decentology)
+- [Decentology](https://www.youtube.com/c/Decentology)
+- [Jacob Tucker](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw)
 
-Jacob Tucker's (Decentology) vids
 Morgan's (Decentology) vids
 
 
