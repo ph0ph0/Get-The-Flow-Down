@@ -32,6 +32,10 @@ As always, the best place to start is with the official documentation. There you
 
 ## Videos
 
+### Coding Videos
+
+- [Learn Cadence - Hello World on Flow](https://www.youtube.com/watch?v=pRz7EzrWchs)
+
 #### YouTube Channels
 
 -[Decentology](https://www.youtube.com/c/Decentology)
@@ -57,6 +61,7 @@ DappStarter
 ## Tools
 
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
+- [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 
 
 
