@@ -31,8 +31,11 @@ As always, the best place to start is with the official documentation. There you
 
 #### NFTs
 
-- [KittyItems]()
+- [KittyItems](https://github.com/onflow/kitty-items)
 - [How to Create an NFT with Flow and NFT.Storage](https://medium.com/@qq976739120/how-to-create-an-nft-with-flow-and-nft-storage-1ccce45797b0)
+- [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 1](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf)
+- [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 2](https://medium.com/pinata/how-to-display-your-nft-collection-like-nba-top-shot-with-flow-and-ipfs-6ba75048bf8a)
+- [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 3](https://medium.com/pinata/how-to-create-an-nft-marketplace-on-flow-with-ipfs-a162a1aeb426)
 
 ## Videos
 
