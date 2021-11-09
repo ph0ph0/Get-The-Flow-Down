@@ -14,6 +14,10 @@ As always, the best place to start is with the official documentation. There you
   
 [![Amplify Discord](./discord-200.jpeg)](https://discord.gg/V9hvdUXFsV)
 
+## Communities
+
+- [Decentology](https://discord.gg/BBRmMFsBqy)
+
 ## Blogs and Tutorials
 
 #### Intros to Flow, Cadence and the Ecosystem
@@ -65,7 +69,7 @@ Morgan's (Decentology) vids
 
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
 - [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
-DappStarter
+- [DappStarter](https://dappstarter.decentology.com/)
 
 
 
