@@ -59,14 +59,13 @@ Morgan's (Decentology) vids
 
 - [Decentology Fast Floward](https://github.com/decentology/fast-floward-1)
 
-FastFloward
-DappStarter
+
 
 ## Tools
 
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
 - [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
-
+DappStarter
 
 
 
