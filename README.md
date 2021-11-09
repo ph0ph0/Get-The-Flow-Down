@@ -57,10 +57,11 @@ Morgan's (Decentology) vids
 
 ## Contracts, Code and Repos
 
+- [Flow Core Contracts](https://github.com/onflow/flow-core-contracts)
 - [KittyItems](https://github.com/onflow/kitty-items)
 - [CryptoDappy](https://github.com/bebner/crypto-dappy)
-- [Flow Core Contracts](https://github.com/onflow/flow-core-contracts)
 - [NBA Top Shot](https://github.com/dapperlabs/nba-smart-contracts)
+- [Versus](https://github.com/versus-flow/versus-contracts)
 
 ### Bootcamp Repos
 
