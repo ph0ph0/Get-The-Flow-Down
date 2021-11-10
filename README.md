@@ -21,6 +21,7 @@ As always, the best place to start is with the official documentation. There you
 ## Blogs and Tutorials
 
 - [Joshua Hannan's Medium Profile](https://joshuahannan.medium.com/)
+- [Ben Ebner's Medium Profile](https://medium.com/@ebner.benjamin)
 
 #### Intros to Flow, Cadence and the Ecosystem
 
