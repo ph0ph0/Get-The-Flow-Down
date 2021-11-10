@@ -29,9 +29,15 @@ As always, the best place to start is with the official documentation. There you
 
 - [FCL Quickstart](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/)
 
-#### Best Practices
+#### Cadence + Best Practices
 
 - [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
+- [Cadence Design Patterns](https://docs.onflow.org/cadence/design-patterns/)
+- [Cadence Anti-Patterns](https://docs.onflow.org/cadence/anti-patterns/)
+- [Cadence Optionals Demystified](https://joshuahannan.medium.com/optionals-in-cadence-not-optional-fb39bb4b0081)
+- [Creating a token on the Flow blockchain? Don’t forget this VITAL part! (Generic Object Casting to Concrete Types)](https://joshuahannan.medium.com/creating-a-token-on-the-flow-blockchain-dont-forget-this-vital-part-2607a19c7ccd)
+- [Introduction to Cadence Access Control](https://joshuahannan.medium.com/basic-access-control-in-cadence-28c5765c6ec0)
+- [Inside Flow: Cadence, The Language Made For Digital Assets (Useful for people with Ethereum/Solidity background)](https://www.onflow.org/post/flow-blockchain-cadence-programming-language-resources-assets)
 
 #### NFTs
 
@@ -41,6 +47,7 @@ As always, the best place to start is with the official documentation. There you
 - [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 1](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf)
 - [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 2](https://medium.com/pinata/how-to-display-your-nft-collection-like-nba-top-shot-with-flow-and-ipfs-6ba75048bf8a)
 - [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 3](https://medium.com/pinata/how-to-create-an-nft-marketplace-on-flow-with-ipfs-a162a1aeb426)
+- [Creating The Party Gooberz — the complete story by Erick White](https://medium.com/@The.Party.Gooberz/creating-the-the-party-gooberz-the-complete-story-by-erick-white-621a93a6e94e)
 
 ## Videos
 
