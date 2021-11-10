@@ -62,6 +62,7 @@ As always, the best place to start is with the official documentation. There you
 
 - [Decentology](https://www.youtube.com/c/Decentology)
 - [Jacob Tucker](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw)
+- [MorganW - FlowDeveloper](https://www.youtube.com/c/FlowDeveloper)
 
 Morgan's (Decentology) vids
 
