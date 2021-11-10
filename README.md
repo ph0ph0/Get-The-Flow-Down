@@ -25,6 +25,10 @@ As always, the best place to start is with the official documentation. There you
 - [Taking your First Steps with Cadence](https://joshuahannan.medium.com/taking-your-first-steps-with-cadence-19dde86bbd0)
 - [CryptoDappy](https://www.cryptodappy.com/)
 
+#### FCL
+
+- [FCL Quickstart](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/)
+
 #### Best Practices
 
 - [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
@@ -39,9 +43,10 @@ As always, the best place to start is with the official documentation. There you
 
 ## Videos
 
-### Coding Videos
+#### Coding Tutorials
 
 - [Learn Cadence - Hello World on Flow](https://www.youtube.com/watch?v=pRz7EzrWchs)
+- [Learn Flow/Cadence](https://www.youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
 
 #### YouTube Channels
 
@@ -74,7 +79,5 @@ Morgan's (Decentology) vids
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
 - [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 - [DappStarter](https://dappstarter.decentology.com/)
-
-
 
 <!-- DISCORD LINK -->
