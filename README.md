@@ -26,6 +26,9 @@ As always, the best place to start is with the official documentation. There you
 
 - [Taking your First Steps with Cadence](https://joshuahannan.medium.com/taking-your-first-steps-with-cadence-19dde86bbd0)
 - [CryptoDappy](https://www.cryptodappy.com/)
+- [Blockchain in a Nutshell](https://medium.com/coinmonks/blockchain-in-a-nutshell-85ea14e6c2fe)
+- [Cadence at a Glance](https://medium.com/@ebner.benjamin/cadence-at-a-glance-4e685c34b544)
+- [How Cadence and Flow will Revolutionize Smart Contract Programming](https://medium.com/coinmonks/how-cadence-and-flow-will-revolutionize-smart-contract-programming-607bd05b49b)
 
 #### FCL
 
@@ -99,3 +102,4 @@ Morgan's (Decentology) vids
 - [IPFS](https://docs.ipfs.io/)
 - [Pinata](https://www.pinata.cloud/)
 - [VideoCoin](https://videocoin.network/)
+- [Blocto Wallet](https://blocto.portto.io/en/)
