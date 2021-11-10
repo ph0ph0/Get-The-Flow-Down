@@ -14,9 +14,10 @@ As always, the best place to start is with the official documentation. There you
   
 [![Amplify Discord](./discord-200.jpeg)](https://discord.gg/V9hvdUXFsV)
 
-## Communities
+## Other Communities
 
 - [Decentology](https://discord.gg/BBRmMFsBqy)
+- [Flowverse](https://discord.gg/q5Zq5QCEkG)
 
 ## Blogs and Tutorials
 
@@ -98,3 +99,4 @@ As always, the best place to start is with the official documentation. There you
 - [Pinata](https://www.pinata.cloud/)
 - [VideoCoin](https://videocoin.network/)
 - [Blocto Wallet](https://blocto.portto.io/en/)
+- [Graffle](https://graffle.io/)
