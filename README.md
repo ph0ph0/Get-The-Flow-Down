@@ -49,7 +49,12 @@ As always, the best place to start is with the official documentation. There you
 - [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 1](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf)
 - [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 2](https://medium.com/pinata/how-to-display-your-nft-collection-like-nba-top-shot-with-flow-and-ipfs-6ba75048bf8a)
 - [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 3](https://medium.com/pinata/how-to-create-an-nft-marketplace-on-flow-with-ipfs-a162a1aeb426)
+- [How to Create NFTs with IPFS and Digital Art](https://medium.com/pinata/ipfs-nfts-and-persistent-artwork-50a129587a36)
+- [The File Requirements for NFTs](https://medium.com/pinata/the-file-requirements-for-nfts-a20ea3ac524b)
 - [Creating The Party Gooberz — the complete story by Erick White](https://medium.com/@The.Party.Gooberz/creating-the-the-party-gooberz-the-complete-story-by-erick-white-621a93a6e94e)
+- [The Relationship Between IPFS and FileCoin](https://docs.ipfs.io/concepts/faq/#ipfs-and-filecoin)
+- [Best Practices for Storing NFT Data on IPFS](https://docs.ipfs.io/how-to/best-practices-for-nft-data/#types-of-ipfs-links-and-when-to-use-them)
+
 
 ## Videos
 
@@ -90,3 +95,7 @@ Morgan's (Decentology) vids
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
 - [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 - [DappStarter](https://dappstarter.decentology.com/)
+- [NFT.Storage](https://nft.storage/#about)
+- [IPFS](https://docs.ipfs.io/)
+- [Pinata](https://www.pinata.cloud/)
+- [VideoCoin](https://videocoin.network/)
