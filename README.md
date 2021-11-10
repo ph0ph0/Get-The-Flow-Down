@@ -20,6 +20,8 @@ As always, the best place to start is with the official documentation. There you
 
 ## Blogs and Tutorials
 
+- [Joshua Hannan's Medium Profile](https://joshuahannan.medium.com/)
+
 #### Intros to Flow, Cadence and the Ecosystem
 
 - [Taking your First Steps with Cadence](https://joshuahannan.medium.com/taking-your-first-steps-with-cadence-19dde86bbd0)
