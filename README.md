@@ -61,7 +61,7 @@ As always, the best place to start is with the official documentation. There you
 
 
 ## SDK
-### Oficial
+### Official
 - [Javascript SDK](https://github.com/onflow/fcl-js)
 - [Go SDK](https://github.com/onflow/flow-go-sdk)
 - [Java and Kotlin - JVM SDK](https://github.com/the-nft-company/flow-jvm-sdk)
