@@ -33,8 +33,7 @@ As always, the best place to start is with the official documentation. There you
 - [How Cadence and Flow will Revolutionize Smart Contract Programming](https://medium.com/coinmonks/how-cadence-and-flow-will-revolutionize-smart-contract-programming-607bd05b49b)
 
 #### FCL
-- [FCL Quickstart](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/)
-- 
+- [FCL Quickstart](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
 
 #### Cadence + Best Practices
 
@@ -64,11 +63,12 @@ As always, the best place to start is with the official documentation. There you
 ### SDK
 #### Oficial
 - [Javascript SDK](https://github.com/onflow/fcl-js)
+- [Go SDK](https://github.com/onflow/flow-go-sdk)
+- [Java and Kotlin - JVM SDK](https://github.com/the-nft-company/flow-jvm-sdk)
 
 #### Community Supported
 - [C# SDK](https://github.com/DCoding64/csharp-flow-sdk)
 - [Dart SDK](https://github.com/MaxStalker/flow-dart-sdk)
-- [Java and Kotlin - JVM SDK](https://github.com/the-nft-company/flow-jvm-sdk)
 - [PHP SDK](https://github.com/mayvenstudios/flow-php-sdk)
 - [Python](https://github.com/janezpodhostnik/flow-py-sdk)
 - [Ruby](https://github.com/glucode/flow_client)
