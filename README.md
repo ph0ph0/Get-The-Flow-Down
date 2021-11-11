@@ -33,8 +33,8 @@ As always, the best place to start is with the official documentation. There you
 - [How Cadence and Flow will Revolutionize Smart Contract Programming](https://medium.com/coinmonks/how-cadence-and-flow-will-revolutionize-smart-contract-programming-607bd05b49b)
 
 #### FCL
-
 - [FCL Quickstart](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/)
+- 
 
 #### Cadence + Best Practices
 
@@ -60,6 +60,21 @@ As always, the best place to start is with the official documentation. There you
 - [The Relationship Between IPFS and FileCoin](https://docs.ipfs.io/concepts/faq/#ipfs-and-filecoin)
 - [Best Practices for Storing NFT Data on IPFS](https://docs.ipfs.io/how-to/best-practices-for-nft-data/#types-of-ipfs-links-and-when-to-use-them)
 
+
+### SDK
+#### Oficial
+- [Javascript SDK](https://github.com/onflow/fcl-js)
+
+#### Community Supported
+- [C# SDK](https://github.com/DCoding64/csharp-flow-sdk)
+- [Dart SDK](https://github.com/MaxStalker/flow-dart-sdk)
+- [Java and Kotlin - JVM SDK](https://github.com/the-nft-company/flow-jvm-sdk)
+- [PHP SDK](https://github.com/mayvenstudios/flow-php-sdk)
+- [Python](https://github.com/janezpodhostnik/flow-py-sdk)
+- [Ruby](https://github.com/glucode/flow_client)
+- [Rust](https://github.com/MarshallBelles/flow-rust-sdk)
+- [Swift SDK](https://github.com/zed-io/flow-swift)
+- [Swift SDK](https://github.com/ryankopinsky/flow-swift-sdk)
 
 ## Videos
 
@@ -90,7 +105,7 @@ As always, the best place to start is with the official documentation. There you
 
 
 ## Tools
-
+- [Cadence Utilities aka Flow CadUt](https://github.com/onflow/flow-cadut)
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
 - [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 - [DappStarter](https://dappstarter.decentology.com/)
