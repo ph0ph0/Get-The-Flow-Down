@@ -60,13 +60,13 @@ As always, the best place to start is with the official documentation. There you
 - [Best Practices for Storing NFT Data on IPFS](https://docs.ipfs.io/how-to/best-practices-for-nft-data/#types-of-ipfs-links-and-when-to-use-them)
 
 
-### SDK
-#### Oficial
+## SDK
+### Oficial
 - [Javascript SDK](https://github.com/onflow/fcl-js)
 - [Go SDK](https://github.com/onflow/flow-go-sdk)
 - [Java and Kotlin - JVM SDK](https://github.com/the-nft-company/flow-jvm-sdk)
 
-#### Community Supported
+### Community Supported
 - [C# SDK](https://github.com/DCoding64/csharp-flow-sdk)
 - [Dart SDK](https://github.com/MaxStalker/flow-dart-sdk)
 - [PHP SDK](https://github.com/mayvenstudios/flow-php-sdk)
