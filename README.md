@@ -115,3 +115,6 @@ As always, the best place to start is with the official documentation. There you
 - [VideoCoin](https://videocoin.network/)
 - [Blocto Wallet](https://blocto.portto.io/en/)
 - [Graffle](https://graffle.io/)
+- [Flow CLI](https://github.com/onflow/flow-cli)
+- [Flow Emulator](https://github.com/onflow/flow-emulator)
+- [Playground](https://play.onflow.org/)
