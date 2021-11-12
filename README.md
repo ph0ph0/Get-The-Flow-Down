@@ -90,6 +90,9 @@ As always, the best place to start is with the official documentation. There you
 - [Jacob Tucker](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw)
 - [MorganW - FlowDeveloper](https://www.youtube.com/c/FlowDeveloper)
 
+## DAOs
+- [Emerald City](https://discord.gg/hAsp2N9g)
+
 ## Contracts, Code and Repos
 
 - [Flow Core Contracts](https://github.com/onflow/flow-core-contracts)
