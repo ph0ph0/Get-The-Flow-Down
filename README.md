@@ -1,6 +1,6 @@
 # Get the Flow Down - Flow Learning Resources
 
-Get the Flow Down is a curated collection of the best Flow blockchain tools, tutorials, articles and more! If you have come across an awesome tutorial, or you have written one yourself, please create a PR!
+Get the Flow Down is a curated collection of the best Flow blockchain tools, tutorials, articles and more! If you have come across an awesome tutorial, tool, community, blog or you have created one yourself, please create a PR!
 
 Inspired by the great [Nader Dabit's](https://twitter.com/dabit3) [awesome-aws-amplify](https://github.com/dabit3/awesome-aws-amplify)
 
