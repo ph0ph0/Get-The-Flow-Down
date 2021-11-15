@@ -58,6 +58,7 @@ As always, the best place to start is with the official documentation. There you
 - [Creating The Party Gooberz — the complete story by Erick White](https://medium.com/@The.Party.Gooberz/creating-the-the-party-gooberz-the-complete-story-by-erick-white-621a93a6e94e)
 - [The Relationship Between IPFS and FileCoin](https://docs.ipfs.io/concepts/faq/#ipfs-and-filecoin)
 - [Best Practices for Storing NFT Data on IPFS](https://docs.ipfs.io/how-to/best-practices-for-nft-data/#types-of-ipfs-links-and-when-to-use-them)
+- [How signed messages can safeguard your drop against bot attacks on Flow](https://medium.com/@luca_flovatar/how-signed-messages-can-safeguard-your-drop-against-bot-attacks-on-flow-3b13071229e0)
 
 
 ## SDK
