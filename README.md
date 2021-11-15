@@ -79,10 +79,11 @@ As always, the best place to start is with the official documentation. There you
 
 ## Videos
 
-#### Coding Tutorials
+#### Tutorials
 
 - [Learn Cadence - Hello World on Flow](https://www.youtube.com/watch?v=pRz7EzrWchs)
 - [Learn Flow/Cadence](https://www.youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
+- [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
 
 #### YouTube Channels
 
