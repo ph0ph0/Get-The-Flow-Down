@@ -124,3 +124,4 @@ As always, the best place to start is with the official documentation. There you
 - [Flow CLI](https://github.com/onflow/flow-cli)
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
 - [Playground](https://play.onflow.org/)
+- [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
