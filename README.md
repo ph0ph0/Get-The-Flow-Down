@@ -59,6 +59,10 @@ As always, the best place to start is with the official documentation. There you
 - [The Relationship Between IPFS and FileCoin](https://docs.ipfs.io/concepts/faq/#ipfs-and-filecoin)
 - [Best Practices for Storing NFT Data on IPFS](https://docs.ipfs.io/how-to/best-practices-for-nft-data/#types-of-ipfs-links-and-when-to-use-them)
 - [How signed messages can safeguard your drop against bot attacks on Flow](https://medium.com/@luca_flovatar/how-signed-messages-can-safeguard-your-drop-against-bot-attacks-on-flow-3b13071229e0)
+- [Introducing NFT.Storage: Free Decentralized Storage for NFTs](https://filecoin.io/blog/posts/introducing-nft.storage-free-decentralized-storage-for-nfts/)
+- [Add Content to IPFS and Retrieve It · Decentralized Web Primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/add-and-retrieve-file-content.html)
+- [Decentralized data storage using IPFS and React: A tutorial with examples - LogRocket Blog](https://blog.logrocket.com/decentralized-data-storage-using-ipfs-and-react-a-tutorial-with-examples/)
+- 
 
 
 ## SDK
