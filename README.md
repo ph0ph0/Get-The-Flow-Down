@@ -62,7 +62,6 @@ As always, the best place to start is with the official documentation. There you
 - [Introducing NFT.Storage: Free Decentralized Storage for NFTs](https://filecoin.io/blog/posts/introducing-nft.storage-free-decentralized-storage-for-nfts/)
 - [Add Content to IPFS and Retrieve It · Decentralized Web Primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/add-and-retrieve-file-content.html)
 - [Decentralized data storage using IPFS and React: A tutorial with examples - LogRocket Blog](https://blog.logrocket.com/decentralized-data-storage-using-ipfs-and-react-a-tutorial-with-examples/)
-- 
 
 
 ## SDK
@@ -129,3 +128,4 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
 - [Playground](https://play.onflow.org/)
 - [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
+- [Flow Scanner] (https://github.com/rayvin-flow/flow-scanner)
