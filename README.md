@@ -23,6 +23,7 @@ As always, the best place to start is with the official documentation. There you
 
 - [Joshua Hannan's Medium Profile](https://joshuahannan.medium.com/)
 - [Ben Ebner's Medium Profile](https://medium.com/@ebner.benjamin)
+- [Jacob Tucker's Flow Zero to Hero](https://github.com/jacob-tucker/Flow-Zero-to-Hero)
 
 #### Intros to Flow, Cadence and the Ecosystem
 
@@ -128,4 +129,4 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
 - [Playground](https://play.onflow.org/)
 - [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
-- [Flow Scanner] (https://github.com/rayvin-flow/flow-scanner)
+- [Flow Scanner](https://github.com/rayvin-flow/flow-scanner)
