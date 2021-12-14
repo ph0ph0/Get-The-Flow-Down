@@ -117,7 +117,6 @@ As always, the best place to start is with the official documentation. There you
 ## Tools
 - [Cadence Utilities aka Flow CadUt](https://github.com/onflow/flow-cadut)
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
-- [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 - [DappStarter](https://dappstarter.decentology.com/)
 - [NFT.Storage](https://nft.storage/#about)
 - [IPFS](https://docs.ipfs.io/)
@@ -129,5 +128,10 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
 - [Playground](https://play.onflow.org/)
 - [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
+
+
+### Event Listeners/Monitors/Queriers
+
 - [Flow Scanner](https://github.com/rayvin-flow/flow-scanner)
+- [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 - [Flow Beam](https://github.com/rayvin-flow/flow-beam)
