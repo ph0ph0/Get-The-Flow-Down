@@ -130,3 +130,4 @@ As always, the best place to start is with the official documentation. There you
 - [Playground](https://play.onflow.org/)
 - [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
 - [Flow Scanner](https://github.com/rayvin-flow/flow-scanner)
+- [Flow Beam](https://github.com/rayvin-flow/flow-beam)
