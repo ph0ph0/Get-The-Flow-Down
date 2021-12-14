@@ -33,6 +33,7 @@ As always, the best place to start is with the official documentation. There you
 - [Cadence at a Glance](https://medium.com/@ebner.benjamin/cadence-at-a-glance-4e685c34b544)
 - [How Cadence and Flow will Revolutionize Smart Contract Programming](https://medium.com/coinmonks/how-cadence-and-flow-will-revolutionize-smart-contract-programming-607bd05b49b)
 - [NFT School - Building a Flow NFT pet store](https://nftschool.dev/tutorial/flow-nft-marketplace/#building-pet-store)
+- [Learn Cadence - Hello World](https://www.youtube.com/playlist?list=PL0qVMKzYEBRPjxkssDa0-aG2cFlrv0sZV)
 
 #### FCL
 - [FCL Quickstart](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
