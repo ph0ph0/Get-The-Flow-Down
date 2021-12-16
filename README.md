@@ -115,7 +115,9 @@ As always, the best place to start is with the official documentation. There you
 
 - [Decentology Fast Floward](https://github.com/decentology/fast-floward-1)
 
+### Example Repos
 
+- [Multipart signing example (client+server)](https://github.com/MaxStalker/flow-multipart-sign-process)
 
 ## Tools
 - [Cadence Utilities aka Flow CadUt](https://github.com/onflow/flow-cadut)
