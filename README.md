@@ -36,7 +36,8 @@ As always, the best place to start is with the official documentation. There you
 - [Learn Cadence - Hello World](https://www.youtube.com/playlist?list=PL0qVMKzYEBRPjxkssDa0-aG2cFlrv0sZV)
 
 #### FCL
-- [FCL Quickstart](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
+- [FCL Quickstart (Official – using React)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
+- [FCL Quickstart (using SvelteKit)](https://github.com/muttoni/fcl-sveltekit)
 
 #### Cadence + Best Practices
 
