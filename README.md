@@ -91,6 +91,7 @@ As always, the best place to start is with the official documentation. There you
 - [Learn Cadence - Hello World on Flow](https://www.youtube.com/watch?v=pRz7EzrWchs)
 - [Learn Flow/Cadence](https://www.youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
 - [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
+- [Metadata Standard on Flow featuring Jacob Tucker and Bjartek](https://www.youtube.com/watch?v=rgJRTozG3cw&t=758s)
 
 #### YouTube Channels
 
@@ -133,7 +134,6 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
 - [Playground](https://play.onflow.org/)
 - [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
-- [Export Fungible Token transactions to Koinly for Tax Reporting](https://github.com/bjartek/flow-koinly-export)
 
 
 ### Event Listeners/Monitors/Queriers
