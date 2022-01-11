@@ -142,3 +142,4 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Scanner](https://github.com/rayvin-flow/flow-scanner)
 - [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 - [Flow Beam](https://github.com/rayvin-flow/flow-beam)
+- [Flowser - Flow Network Indexer and Inspector](https://github.com/onflowser/flowser)
