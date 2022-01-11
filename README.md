@@ -38,8 +38,10 @@ As always, the best place to start is with the official documentation. There you
 - [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
 
 #### FCL
-- [FCL Quickstart (Official – using React)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
+- [FCL Quickstart (Step-by-step tutorial)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
 - [FCL Quickstart (using SvelteKit)](https://github.com/muttoni/fcl-sveltekit)
+- [FCL Quickstart (using Next.js)](https://github.com/muttoni/fcl-nextjs-quickstart)
+- [FCL Quickstart (using Nuxt)](https://github.com/bluesign/nuxt3-fcl)
 
 #### Cadence + Best Practices
 
