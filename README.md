@@ -37,8 +37,10 @@ As always, the best place to start is with the official documentation. There you
 - [How to Create Multiple Accounts in the Flow Emulator](https://medium.com/@fullstackpho/how-to-create-multiple-accounts-in-the-flow-emulator-cc0a3076850f?sk=9cf0f959611da28be119531c70383a97)
 
 #### FCL
-- [FCL Quickstart (Official – using React)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
+- [FCL Quickstart (Step-by-step tutorial)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
 - [FCL Quickstart (using SvelteKit)](https://github.com/muttoni/fcl-sveltekit)
+- [FCL Quickstart (using Next.js)](https://github.com/muttoni/fcl-nextjs-quickstart)
+- [FCL Quickstart (using Nuxt)](https://github.com/bluesign/nuxt3-fcl)
 
 #### Cadence + Best Practices
 
