@@ -35,6 +35,7 @@ As always, the best place to start is with the official documentation. There you
 - [NFT School - Building a Flow NFT pet store](https://nftschool.dev/tutorial/flow-nft-marketplace/#building-pet-store)
 - [Learn Cadence - Hello World](https://www.youtube.com/playlist?list=PL0qVMKzYEBRPjxkssDa0-aG2cFlrv0sZV)
 - [How to Create Multiple Accounts in the Flow Emulator](https://medium.com/@fullstackpho/how-to-create-multiple-accounts-in-the-flow-emulator-cc0a3076850f?sk=9cf0f959611da28be119531c70383a97)
+- [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
 
 #### FCL
 - [FCL Quickstart (Official – using React)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
@@ -135,9 +136,13 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
 - [Playground](https://play.onflow.org/)
 - [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
+- [flow.bigdipper - Block Explorer](https://flow.bigdipper.live/)
+- [FlowScan - Block Explorer](https://flowscan.org/)
+- [Testnet Faucet - Faucet and Account Creation](https://testnet-faucet.onflow.org/)
+- 
 
 
-### Event Listeners/Monitors/Queriers
+### Event Listeners/Monitors/Indexers
 
 - [Flow Scanner](https://github.com/rayvin-flow/flow-scanner)
 - [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
