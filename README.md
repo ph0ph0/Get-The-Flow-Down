@@ -38,8 +38,11 @@ As always, the best place to start is with the official documentation. There you
 - [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
 
 #### FCL
-- [FCL Quickstart (Official – using React)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/) 
-- [FCL Quickstart (using SvelteKit)](https://github.com/muttoni/fcl-sveltekit)
+- [FCL Quickstart (Step-by-step tutorial)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/)
+- [FCL Starter Template for React and Next.js](https://github.com/muttoni/fcl-nextjs-quickstart)
+- [FCL Starter Template for React and Create React App](https://github.com/bluesign/flow-app)
+- [FCL Starter Template for SvelteKit](https://github.com/muttoni/fcl-sveltekit)
+- [FCL Starter Template for Vue and Nuxt](https://github.com/bluesign/nuxt3-fcl)
 
 #### Cadence + Best Practices
 
@@ -113,6 +116,7 @@ As always, the best place to start is with the official documentation. There you
 - [NBA Top Shot](https://github.com/dapperlabs/nba-smart-contracts)
 - [Versus](https://github.com/versus-flow/versus-contracts)
 - [Chainmonsters](https://github.com/bsidegames/chainmonsters-smart-contracts)
+- [USDC](https://github.com/flow-usdc/flow-usdc)
 
 ### Bootcamp Repos
 
