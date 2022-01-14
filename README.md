@@ -53,6 +53,9 @@ As always, the best place to start is with the official documentation. There you
 - [Creating a token on the Flow blockchain? Don’t forget this VITAL part! (Generic Object Casting to Concrete Types)](https://joshuahannan.medium.com/creating-a-token-on-the-flow-blockchain-dont-forget-this-vital-part-2607a19c7ccd)
 - [Introduction to Cadence Access Control](https://joshuahannan.medium.com/basic-access-control-in-cadence-28c5765c6ec0)
 - [Inside Flow: Cadence, The Language Made For Digital Assets (Useful for people with Ethereum/Solidity background)](https://www.onflow.org/post/flow-blockchain-cadence-programming-language-resources-assets)
+- [Accounts, Keys and Signing](https://docs.onflow.org/concepts/accounts-and-keys/)
+- [Signing a Transaction](https://docs.onflow.org/concepts/transaction-signing/)
+- [Storing Data on Flow](https://docs.onflow.org/concepts/storage/)
 
 #### NFTs
 
