@@ -139,7 +139,6 @@ As always, the best place to start is with the official documentation. There you
 - [flow.bigdipper - Block Explorer](https://flow.bigdipper.live/)
 - [FlowScan - Block Explorer](https://flowscan.org/)
 - [Testnet Faucet - Faucet and Account Creation](https://testnet-faucet.onflow.org/)
-- 
 
 
 ### Event Listeners/Monitors/Indexers
