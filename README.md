@@ -100,6 +100,7 @@ As always, the best place to start is with the official documentation. There you
 - [Learn Flow/Cadence](https://www.youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
 - [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
 - [Metadata Standard on Flow featuring Jacob Tucker and Bjartek](https://www.youtube.com/watch?v=rgJRTozG3cw&t=758s)
+- [Marketplace Event Monitor Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
 
 #### YouTube Channels
 
