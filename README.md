@@ -139,7 +139,6 @@ As always, the best place to start is with the official documentation. There you
 - [Pinata](https://www.pinata.cloud/)
 - [VideoCoin](https://videocoin.network/)
 - [Blocto Wallet](https://blocto.portto.io/en/)
-- [Graffle](https://graffle.io/)
 - [Flow CLI](https://github.com/onflow/flow-cli)
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
 - [Playground](https://play.onflow.org/)
@@ -151,6 +150,7 @@ As always, the best place to start is with the official documentation. There you
 
 ### Event Listeners/Monitors/Indexers
 
+- [Graffle](https://graffle.io/)
 - [Flow Scanner](https://github.com/rayvin-flow/flow-scanner)
 - [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 - [Flow Beam](https://github.com/rayvin-flow/flow-beam)
