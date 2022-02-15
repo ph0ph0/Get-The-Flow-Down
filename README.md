@@ -122,6 +122,7 @@ As always, the best place to start is with the official documentation. There you
 - [Versus](https://github.com/versus-flow/versus-contracts)
 - [Chainmonsters](https://github.com/bsidegames/chainmonsters-smart-contracts)
 - [USDC](https://github.com/flow-usdc/flow-usdc)
+- [.find](https://github.com/findonflow/find/tree/main/contracts)
 
 ### Bootcamp Repos
 
