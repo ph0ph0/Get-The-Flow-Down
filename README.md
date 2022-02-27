@@ -61,7 +61,7 @@ As always, the best place to start is with the official documentation. There you
 #### NFTs
 
 - [KittyItems](https://github.com/onflow/kitty-items)
-- [Freshmint](https://github.com/onflow/freshmint)
+- [Freshmint - All-in-one tool to deploy a decentralized NFT project](https://github.com/onflow/freshmint)
 - [How to Create an NFT with Flow and NFT.Storage](https://medium.com/@qq976739120/how-to-create-an-nft-with-flow-and-nft-storage-1ccce45797b0)
 - [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 1](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf)
 - [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 2](https://medium.com/pinata/how-to-display-your-nft-collection-like-nba-top-shot-with-flow-and-ipfs-6ba75048bf8a)
