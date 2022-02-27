@@ -38,14 +38,6 @@ As always, the best place to start is with the official documentation. There you
 - [How to Create Multiple Accounts in the Flow Emulator](https://medium.com/@fullstackpho/how-to-create-multiple-accounts-in-the-flow-emulator-cc0a3076850f?sk=9cf0f959611da28be119531c70383a97)
 - [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
 
-#### FCL
-- [FCL Quickstart (Step-by-step tutorial)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/)
-- [FCL Starter Template for React and Next.js](https://github.com/muttoni/fcl-nextjs-quickstart)
-- [FCL Starter Template for React and Create React App](https://github.com/bluesign/flow-app)
-- [FCL Starter Template for SvelteKit](https://github.com/muttoni/fcl-sveltekit)
-- [FCL Starter Template for Vue and Nuxt](https://github.com/brunogonzales/fcl-nuxt)
-- [FCL Barebones Template for Vue and Nuxt](https://github.com/bluesign/nuxt3-fcl)
-
 #### Cadence + Best Practices
 
 - [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
@@ -58,6 +50,14 @@ As always, the best place to start is with the official documentation. There you
 - [Accounts, Keys and Signing](https://docs.onflow.org/concepts/accounts-and-keys/)
 - [Signing a Transaction](https://docs.onflow.org/concepts/transaction-signing/)
 - [Storing Data on Flow](https://docs.onflow.org/concepts/storage/)
+
+#### FCL
+- [FCL Quickstart (Step-by-step tutorial)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/)
+- [FCL Starter Template for React and Next.js](https://github.com/muttoni/fcl-nextjs-quickstart)
+- [FCL Starter Template for React and Create React App](https://github.com/bluesign/flow-app)
+- [FCL Starter Template for SvelteKit](https://github.com/muttoni/fcl-sveltekit)
+- [FCL Starter Template for Vue and Nuxt](https://github.com/brunogonzales/fcl-nuxt)
+- [FCL Barebones Template for Vue and Nuxt](https://github.com/bluesign/nuxt3-fcl)
 
 #### NFTs
 
