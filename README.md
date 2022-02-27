@@ -43,7 +43,8 @@ As always, the best place to start is with the official documentation. There you
 - [FCL Starter Template for React and Next.js](https://github.com/muttoni/fcl-nextjs-quickstart)
 - [FCL Starter Template for React and Create React App](https://github.com/bluesign/flow-app)
 - [FCL Starter Template for SvelteKit](https://github.com/muttoni/fcl-sveltekit)
-- [FCL Starter Template for Vue and Nuxt](https://github.com/bluesign/nuxt3-fcl)
+- [FCL Starter Template for Vue and Nuxt](https://github.com/brunogonzales/fcl-nuxt)
+- [FCL Barebones Template for Vue and Nuxt](https://github.com/bluesign/nuxt3-fcl)
 
 #### Cadence + Best Practices
 
