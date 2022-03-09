@@ -116,6 +116,7 @@ As always, the best place to start is with the official documentation. There you
 
 ## Contracts, Code and Repos
 
+- [Open Cadence](https://open-cadence.onflow.org/)
 - [Flow Core Contracts](https://github.com/onflow/flow-core-contracts)
 - [KittyItems](https://github.com/onflow/kitty-items)
 - [CryptoDappy](https://github.com/bebner/crypto-dappy)
