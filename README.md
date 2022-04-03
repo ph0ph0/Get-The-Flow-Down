@@ -126,7 +126,8 @@ As always, the best place to start is with the official documentation. There you
 - [Chainmonsters](https://github.com/bsidegames/chainmonsters-smart-contracts)
 - [USDC](https://github.com/flow-usdc/flow-usdc)
 - [.find](https://github.com/findonflow/find/tree/main/contracts)
-- [Jambb] (https://github.com/JambbTeam)
+- [Jambb](https://github.com/JambbTeam)
+- [Mantle Finance](https://github.com/mantlefi)
 
 ### Bootcamp Repos
 
