@@ -128,6 +128,7 @@ As always, the best place to start is with the official documentation. There you
 - [.find](https://github.com/findonflow/find/tree/main/contracts)
 - [Jambb](https://github.com/JambbTeam)
 - [Mantle Finance](https://github.com/mantlefi)
+- [Inflow Music Co](https://github.com/Inflow-Music-Co/flow-social-token)
 
 ### Bootcamp Repos
 
@@ -153,6 +154,7 @@ As always, the best place to start is with the official documentation. There you
 - [flow.bigdipper - Block Explorer](https://flow.bigdipper.live/)
 - [FlowScan - Block Explorer](https://flowscan.org/)
 - [Testnet Faucet - Faucet and Account Creation](https://testnet-faucet.onflow.org/)
+- [Cadence-Webpack-Plugin](https://github.com/agencyenterprise/cadence-webpack-plugin)
 
 
 ### Event Listeners/Monitors/Indexers
