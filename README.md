@@ -129,6 +129,7 @@ As always, the best place to start is with the official documentation. There you
 - [Jambb](https://github.com/JambbTeam)
 - [Mantle Finance](https://github.com/mantlefi)
 - [Inflow Music Co](https://github.com/Inflow-Music-Co/flow-social-token)
+- [flovatar](https://github.com/crash13override/flovatar)
 
 ### Bootcamp Repos
 
