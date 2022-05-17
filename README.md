@@ -59,6 +59,7 @@ As always, the best place to start is with the official documentation. There you
 - [FCL Starter Template for SvelteKit](https://github.com/muttoni/fcl-sveltekit)
 - [FCL Starter Template for Vue and Nuxt](https://github.com/brunogonzales/fcl-nuxt)
 - [FCL Barebones Template for Vue and Nuxt](https://github.com/bluesign/nuxt3-fcl)
+- [FCL Starter Template for Vue and Nuxt3(with TS, TailwindCSS and ESlint)](https://github.com/btspoony/nuxt3-flow-dapp-starter)
 
 #### NFTs
 
