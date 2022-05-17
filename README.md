@@ -50,9 +50,10 @@ As always, the best place to start is with the official documentation. There you
 - [Accounts, Keys and Signing](https://docs.onflow.org/concepts/accounts-and-keys/)
 - [Signing a Transaction](https://docs.onflow.org/concepts/transaction-signing/)
 - [Storing Data on Flow](https://docs.onflow.org/concepts/storage/)
-- [NFT MetadataViews] (https://github.com/onflow/flow-nft/blob/master/contracts/MetadataViews.cdc)
+- [NFT MetadataViews](https://github.com/onflow/flow-nft/blob/master/contracts/MetadataViews.cdc)
 
 #### FCL
+
 - [FCL Quickstart (Step-by-step tutorial)](https://docs.onflow.org/fcl/tutorials/flow-app-quickstart/)
 - [FCL Starter Template for React and Next.js](https://github.com/muttoni/fcl-nextjs-quickstart)
 - [FCL Starter Template for React and Create React App](https://github.com/bluesign/flow-app)
@@ -78,14 +79,16 @@ As always, the best place to start is with the official documentation. There you
 - [Add Content to IPFS and Retrieve It · Decentralized Web Primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/add-and-retrieve-file-content.html)
 - [Decentralized data storage using IPFS and React: A tutorial with examples - LogRocket Blog](https://blog.logrocket.com/decentralized-data-storage-using-ipfs-and-react-a-tutorial-with-examples/)
 
-
 ## SDK
+
 ### Official
+
 - [Javascript SDK](https://github.com/onflow/fcl-js)
 - [Go SDK](https://github.com/onflow/flow-go-sdk)
 - [Java and Kotlin - JVM SDK](https://github.com/the-nft-company/flow-jvm-sdk)
 
 ### Community Supported
+
 - [C# SDK](https://github.com/DCoding64/csharp-flow-sdk)
 - [Dart SDK](https://github.com/MaxStalker/flow-dart-sdk)
 - [PHP SDK](https://github.com/mayvenstudios/flow-php-sdk)
@@ -113,6 +116,7 @@ As always, the best place to start is with the official documentation. There you
 - [MorganW - FlowDeveloper](https://www.youtube.com/c/FlowDeveloper)
 
 ## DAOs
+
 - [Emerald City](https://discord.gg/hAsp2N9g)
 
 ## Contracts, Code and Repos
@@ -140,6 +144,7 @@ As always, the best place to start is with the official documentation. There you
 - [Multipart signing example (client+server)](https://github.com/MaxStalker/flow-multipart-sign-process)
 
 ## Tools
+
 - [Cadence Utilities aka Flow CadUt](https://github.com/onflow/flow-cadut)
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
 - [DappStarter](https://dappstarter.decentology.com/)
@@ -156,7 +161,7 @@ As always, the best place to start is with the official documentation. There you
 - [FlowScan - Block Explorer](https://flowscan.org/)
 - [Testnet Faucet - Faucet and Account Creation](https://testnet-faucet.onflow.org/)
 - [Cadence-Webpack-Plugin](https://github.com/agencyenterprise/cadence-webpack-plugin)
-
+- [Flow Native Token List](https://github.com/FlowFans/flow-token-list)
 
 ### Event Listeners/Monitors/Indexers
 
