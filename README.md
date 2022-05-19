@@ -108,6 +108,7 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
 - [Metadata Standard on Flow featuring Jacob Tucker and Bjartek](https://www.youtube.com/watch?v=rgJRTozG3cw&t=758s)
 - [Marketplace Event Monitor Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
+- [Witchcraft and Wizardry - A Trading Non-Fungible Card Game](https://github.com/alilloig/tnfcg)
 
 #### YouTube Channels
 
