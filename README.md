@@ -37,7 +37,8 @@ As always, the best place to start is with the official documentation. There you
 - [Learn Cadence - Hello World](https://www.youtube.com/playlist?list=PL0qVMKzYEBRPjxkssDa0-aG2cFlrv0sZV)
 - [How to Create Multiple Accounts in the Flow Emulator](https://medium.com/@fullstackpho/how-to-create-multiple-accounts-in-the-flow-emulator-cc0a3076850f?sk=9cf0f959611da28be119531c70383a97)
 - [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
-
+- [Flow Blockchain Technical Papers](https://www.onflow.org/technical-paper)
+- [Guide to Flow Blockchain for Ethereum users](https://www.flowverse.co/articles/guide-to-flow-blockchain-for-ethereum-users)
 #### Cadence + Best Practices
 
 - [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
