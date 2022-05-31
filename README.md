@@ -137,6 +137,8 @@ As always, the best place to start is with the official documentation. There you
 - [Mantle Finance](https://github.com/mantlefi)
 - [Inflow Music Co](https://github.com/Inflow-Music-Co/flow-social-token)
 - [flovatar](https://github.com/crash13override/flovatar)
+- [Matrix World](https://github.com/MatrixLabsTech/matrix-world-assets-flow)
+- [GeniAce](https://github.com/accubits-tech/GeniAce-SmartContracts/tree/main/contracts)
 
 ### Bootcamp Repos
 
