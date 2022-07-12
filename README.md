@@ -168,6 +168,7 @@ As always, the best place to start is with the official documentation. There you
 - [Testnet Faucet - Faucet and Account Creation](https://testnet-faucet.onflow.org/)
 - [Cadence-Webpack-Plugin](https://github.com/agencyenterprise/cadence-webpack-plugin)
 - [Flow Native Token List](https://github.com/FlowFans/flow-token-list)
+- [Flow Rosetta](https://github.com/onflow/rosetta#flowcoldstorageproxy-contract)
 
 ### Event Listeners/Monitors/Indexers
 
