@@ -110,6 +110,7 @@ As always, the best place to start is with the official documentation. There you
 - [Metadata Standard on Flow featuring Jacob Tucker and Bjartek](https://www.youtube.com/watch?v=rgJRTozG3cw&t=758s)
 - [Marketplace Event Monitor Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
 - [Witchcraft and Wizardry - A Trading Non-Fungible Card Game](https://github.com/alilloig/tnfcg)
+- [MaxStalker flow multipart sign process](https://github.com/MaxStalker/flow-multipart-sign-process)
 
 #### YouTube Channels
 
@@ -140,6 +141,7 @@ As always, the best place to start is with the official documentation. There you
 - [Matrix World](https://github.com/MatrixLabsTech/matrix-world-assets-flow)
 - [GeniAce](https://github.com/accubits-tech/GeniAce-SmartContracts/tree/main/contracts)
 - [Emerald City](https://github.com/jacob-tucker/emerald-city/tree/main/contracts)
+- [Flowty](https://github.com/Flowtyio)
 
 ### Bootcamp Repos
 
