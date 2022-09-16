@@ -172,6 +172,7 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Native Token List](https://github.com/FlowFans/flow-token-list)
 - [Flow Rosetta](https://github.com/onflow/rosetta#flowcoldstorageproxy-contract)
 - [Drizzle](https://github.com/33-Labs/drizzle)
+- [PRNG: Pseudo-Random Number Generator](https://github.com/justjoolz/PRNG/blob/master/cadence/contracts/PRNG.cdc)
 
 ### Event Listeners/Monitors/Indexers
 
