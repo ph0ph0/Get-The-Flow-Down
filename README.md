@@ -19,11 +19,12 @@ As always, the best place to start is with the official documentation. There you
 - [Decentology](https://discord.gg/BBRmMFsBqy)
 - [Flowverse](https://discord.gg/q5Zq5QCEkG)
 
-## Blogs and Tutorials
+## Blogs, Guides and Tutorials
 
 - [Joshua Hannan's Medium Profile](https://joshuahannan.medium.com/)
 - [Ben Ebner's Medium Profile](https://medium.com/@ebner.benjamin)
 - [Jacob Tucker's Flow Zero to Hero](https://github.com/jacob-tucker/Flow-Zero-to-Hero)
+- [.find - How to add rich metadata to your NFT on .Find](https://github.com/findonflow/find/blob/main/integratingMetadataViews.md)
 
 #### Intros to Flow, Cadence and the Ecosystem
 
