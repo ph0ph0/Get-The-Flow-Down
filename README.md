@@ -53,6 +53,7 @@ As always, the best place to start is with the official documentation. There you
 - [Signing a Transaction](https://docs.onflow.org/concepts/transaction-signing/)
 - [Storing Data on Flow](https://docs.onflow.org/concepts/storage/)
 - [NFT MetadataViews](https://github.com/onflow/flow-nft/blob/master/contracts/MetadataViews.cdc)
+- [Smart Contract Audit Checklist](https://github.com/zouantchaw/cadence-contract-audit-checklist)
 
 #### FCL
 
@@ -143,6 +144,7 @@ As always, the best place to start is with the official documentation. There you
 - [GeniAce](https://github.com/accubits-tech/GeniAce-SmartContracts/tree/main/contracts)
 - [Emerald City](https://github.com/jacob-tucker/emerald-city/tree/main/contracts)
 - [Flowty](https://github.com/Flowtyio)
+- [Rarible](https://github.com/rarible/flow-contracts/tree/main/contracts)
 
 ### Bootcamp Repos
 
