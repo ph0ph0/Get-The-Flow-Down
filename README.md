@@ -113,6 +113,7 @@ As always, the best place to start is with the official documentation. There you
 - [Marketplace Event Monitor Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
 - [Witchcraft and Wizardry - A Trading Non-Fungible Card Game](https://github.com/alilloig/tnfcg)
 - [MaxStalker flow multipart sign process](https://github.com/MaxStalker/flow-multipart-sign-process)
+- [Flipside Crypto - Flow Blockchain SQL Training with NFL All Day](https://www.youtube.com/watch?v=E7Tan7HEnhE)
 
 #### YouTube Channels
 
@@ -176,6 +177,7 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Rosetta](https://github.com/onflow/rosetta#flowcoldstorageproxy-contract)
 - [Drizzle](https://github.com/33-Labs/drizzle)
 - [PRNG: Pseudo-Random Number Generator](https://github.com/justjoolz/PRNG/blob/master/cadence/contracts/PRNG.cdc)
+- [Flipside Crypto SQL Editor](flipside.new)
 
 ### Event Listeners/Monitors/Indexers
 
