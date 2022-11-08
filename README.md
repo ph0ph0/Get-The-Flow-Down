@@ -28,6 +28,7 @@ As always, the best place to start is with the official documentation. There you
 
 #### Intros to Flow, Cadence and the Ecosystem
 
+- [Flow NFT DApp Tutorial Series ](https://youtube.com/playlist?list=PLL5pYVd8AWtStx6jrAKKgJPjEznpqYbJh) by [ CodeXpert](http://youtube.com/@CodeXpert)
 - [Taking your First Steps with Cadence](https://joshuahannan.medium.com/taking-your-first-steps-with-cadence-19dde86bbd0)
 - [CryptoDappy](https://www.cryptodappy.com/)
 - [Blockchain in a Nutshell](https://medium.com/coinmonks/blockchain-in-a-nutshell-85ea14e6c2fe)
@@ -106,6 +107,15 @@ As always, the best place to start is with the official documentation. There you
 
 #### Tutorials
 
+- [CodeXpert Flow Tutorial 1 - Welcome, References & Installation](https://youtu.be/dnP6PovY4wI)
+- [CodeXpert Flow Tutorial 2 - Creating Basic NFT Smart Contract](https://youtu.be/qLiSPOKXkng)
+- [CodeXpert Flow Tutorial 3 - Creating Basic NFT Token](https://youtu.be/Q8z5GHA1sf8)
+- [CodeXpert Flow Tutorial 4 - Writing Scripts for NFTs](https://youtu.be/F8eHS4VmVMA)
+- [CodeXpert Flow Tutorial 5 - Transferring NFT to Another Account](https://youtu.be/wvdH0vS5QNs)
+- [CodeXpert Flow Tutorial 6 - Creating React DApp](https://youtu.be/NzKTXtHW4vo)
+- [CodeXpert Flow Tutorial 7 - Deploying Smart Contract to Testnet](https://youtu.be/fu-pQcWj0RY)
+- [CodeXpert Flow Tutorial 8 - Creating NFT Through DApp](https://youtu.be/SQK5ckf0kwk)
+- [CodeXpert Flow Tutorial 9 - Finalizing The Project](https://youtu.be/US6Vi1fUgp0)
 - [Learn Cadence - Hello World on Flow](https://www.youtube.com/watch?v=pRz7EzrWchs)
 - [Learn Flow/Cadence](https://www.youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
 - [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
@@ -117,6 +127,7 @@ As always, the best place to start is with the official documentation. There you
 
 #### YouTube Channels
 
+- [CodeXpert](http://youtube.com/@CodeXpert)
 - [Flow Blockchain](https://www.youtube.com/c/FlowBlockchain/featured)
 - [Decentology](https://www.youtube.com/c/Decentology)
 - [Jacob Tucker](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw)
