@@ -189,6 +189,9 @@ As always, the best place to start is with the official documentation. There you
 - [Drizzle](https://github.com/33-Labs/drizzle)
 - [PRNG: Pseudo-Random Number Generator](https://github.com/justjoolz/PRNG/blob/master/cadence/contracts/PRNG.cdc)
 - [Flipside Crypto SQL Editor](flipside.new)
+- [bayou NFT Bulk Transfer Tool](https://flow.bayou33.app/)
+- [Flowview account explorer (mainnet)](https://www.flowview.app/)
+- [Flowview account explorer (testnet)](https://testnet.flowview.app/)
 
 ### Event Listeners/Monitors/Indexers
 
