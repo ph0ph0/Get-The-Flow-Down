@@ -28,6 +28,8 @@ As always, the best place to start is with the official documentation. There you
 
 #### Intros to Flow, Cadence and the Ecosystem
 
+- [From Ethereum To Flow – An Introduction To The Flow Blockchain](https://dzone.com/articles/from-ethereum-to-flow-an-introduction-to-the-flow)
+- [Guide to Flow Blockchain for Ethereum Users](https://www.flowverse.co/articles/guide-to-flow-blockchain-for-ethereum-users)
 - [Flow NFT DApp Tutorial Series ](https://youtube.com/playlist?list=PLL5pYVd8AWtStx6jrAKKgJPjEznpqYbJh) by [ CodeXpert](http://youtube.com/@CodeXpert)
 - [Taking your First Steps with Cadence](https://joshuahannan.medium.com/taking-your-first-steps-with-cadence-19dde86bbd0)
 - [CryptoDappy](https://www.cryptodappy.com/)
@@ -192,6 +194,7 @@ As always, the best place to start is with the official documentation. There you
 - [bayou NFT Bulk Transfer Tool](https://flow.bayou33.app/)
 - [Flowview account explorer (mainnet)](https://www.flowview.app/)
 - [Flowview account explorer (testnet)](https://testnet.flowview.app/)
+- [Flow Public Key Indexer](https://github.com/onflow/flow-public-key-indexer)
 
 ### Event Listeners/Monitors/Indexers
 
