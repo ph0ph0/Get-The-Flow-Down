@@ -16,6 +16,7 @@ As always, the best place to start is with the official documentation. There you
 
 ## Other Communities
 
+- [Emerald City](https://discord.gg/emeraldcity)
 - [Decentology](https://discord.gg/BBRmMFsBqy)
 - [Flowverse](https://discord.gg/q5Zq5QCEkG)
 
