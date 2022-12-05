@@ -29,6 +29,7 @@ As always, the best place to start is with the official documentation. There you
 
 #### Intros to Flow, Cadence and the Ecosystem
 
+- [How to build a simple Twitter app on Flow (A comprehensive introduction to building on Flow)](https://hackmd.io/@andrea-muttoni/web3-twitter)
 - [From Ethereum To Flow – An Introduction To The Flow Blockchain](https://dzone.com/articles/from-ethereum-to-flow-an-introduction-to-the-flow)
 - [Guide to Flow Blockchain for Ethereum Users](https://www.flowverse.co/articles/guide-to-flow-blockchain-for-ethereum-users)
 - [Flow NFT DApp Tutorial Series ](https://youtube.com/playlist?list=PLL5pYVd8AWtStx6jrAKKgJPjEznpqYbJh) by [ CodeXpert](http://youtube.com/@CodeXpert)
@@ -44,6 +45,7 @@ As always, the best place to start is with the official documentation. There you
 - [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
 - [Flow Blockchain Technical Papers](https://www.onflow.org/technical-paper)
 - [Guide to Flow Blockchain for Ethereum users](https://www.flowverse.co/articles/guide-to-flow-blockchain-for-ethereum-users)
+
 #### Cadence + Best Practices
 
 - [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
