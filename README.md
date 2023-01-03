@@ -46,6 +46,7 @@ As always, the best place to start is with the official documentation. There you
 - [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
 - [Flow Blockchain Technical Papers](https://www.onflow.org/technical-paper)
 - [Guide to Flow Blockchain for Ethereum users](https://www.flowverse.co/articles/guide-to-flow-blockchain-for-ethereum-users)
+- [AssetHandover Sample dApp](https://github.com/Build-Squad/asset-handover)
 #### Cadence + Best Practices
 
 - [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
