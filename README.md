@@ -55,6 +55,7 @@ As always, the best place to start is with the official documentation. There you
 - [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
 - [Cadence Design Patterns](https://docs.onflow.org/cadence/design-patterns/)
 - [Cadence Anti-Patterns](https://docs.onflow.org/cadence/anti-patterns/)
+- [How to add rich metadata to your Flow NFT](https://github.com/findonflow/find/blob/main/integratingMetadataViews.md)
 - [Cadence Optionals Demystified](https://joshuahannan.medium.com/optionals-in-cadence-not-optional-fb39bb4b0081)
 - [Creating a token on the Flow blockchain? Don’t forget this VITAL part! (Generic Object Casting to Concrete Types)](https://joshuahannan.medium.com/creating-a-token-on-the-flow-blockchain-dont-forget-this-vital-part-2607a19c7ccd)
 - [Introduction to Cadence Access Control](https://joshuahannan.medium.com/basic-access-control-in-cadence-28c5765c6ec0)
