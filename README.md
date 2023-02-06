@@ -179,6 +179,7 @@ As always, the best place to start is with the official documentation. There you
 ## Tools
 
 - [Cadence Utilities aka Flow CadUt](https://github.com/onflow/flow-cadut)
+- [Flow Code Coverage - Code Coverage Support for Flow Emulator](https://github.com/Build-Squad/flow-code-coverage)
 - [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
 - [DappStarter](https://dappstarter.decentology.com/)
 - [NFT.Storage](https://nft.storage/#about)
