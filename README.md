@@ -65,6 +65,7 @@ As always, the best place to start is with the official documentation. There you
 - [Storing Data on Flow](https://docs.onflow.org/concepts/storage/)
 - [NFT MetadataViews](https://github.com/onflow/flow-nft/blob/master/contracts/MetadataViews.cdc)
 - [Smart Contract Audit Checklist](https://github.com/zouantchaw/cadence-contract-audit-checklist)
+- [Simplifying Smart Contract Testing With the Cadence Test Framework](https://medium.com/@satyam0499/simplifying-smart-contract-testing-with-the-cadence-test-framework-9a5d4a62f6ab)
 
 #### FCL
 
@@ -167,6 +168,7 @@ As always, the best place to start is with the official documentation. There you
 - [Emerald City](https://github.com/jacob-tucker/emerald-city/tree/main/contracts)
 - [Flowty](https://github.com/Flowtyio)
 - [Rarible](https://github.com/rarible/flow-contracts/tree/main/contracts)
+- [Offers (Cadence Test Framework Example)](https://github.com/onflow/Offers/tree/offers-implementation)
 
 ### Bootcamp Repos
 
