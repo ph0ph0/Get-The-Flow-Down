@@ -209,6 +209,7 @@ As always, the best place to start is with the official documentation. There you
 - [Flowview account explorer (mainnet)](https://www.flowview.app/)
 - [Flowview account explorer (testnet)](https://testnet.flowview.app/)
 - [Flow Public Key Indexer](https://github.com/onflow/flow-public-key-indexer)
+- [Generic Collection Resource](https://github.com/rrrkren/generic-collection)
 
 ### Event Listeners/Monitors/Indexers
 
