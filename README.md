@@ -169,6 +169,8 @@ As always, the best place to start is with the official documentation. There you
 - [Flowty](https://github.com/Flowtyio)
 - [Rarible](https://github.com/rarible/flow-contracts/tree/main/contracts)
 - [Offers (Cadence Test Framework Example)](https://github.com/onflow/Offers/tree/offers-implementation)
+- [Ticket Master - Business NFTs](https://flowscan.org/contract/A.e3ac5e6a6b6c63db.TMB2B/overview)
+- [Ticket Master - Digital Collectibles](https://flowscan.org/contract/A.a355799993b95813.TMAUNFT/overview)
 
 ### Bootcamp Repos
 
