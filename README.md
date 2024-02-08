@@ -171,6 +171,9 @@ As always, the best place to start is with the official documentation. There you
 - [Offers (Cadence Test Framework Example)](https://github.com/onflow/Offers/tree/offers-implementation)
 - [Ticket Master - Business NFTs](https://flowscan.org/contract/A.e3ac5e6a6b6c63db.TMB2B/overview)
 - [Ticket Master - Digital Collectibles](https://flowscan.org/contract/A.a355799993b95813.TMAUNFT/overview)
+- [Flow Non-Fungible Token Standard](https://github.com/onflow/flow-nft)
+- [Fungible Token Standard](https://github.com/onflow/flow-ft)
+- [NFT Storefront Contract Standard](https://github.com/onflow/nft-storefront)
 
 ### Bootcamp Repos
 
@@ -206,7 +209,7 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Rosetta](https://github.com/onflow/rosetta#flowcoldstorageproxy-contract)
 - [Drizzle](https://github.com/33-Labs/drizzle)
 - [PRNG: Pseudo-Random Number Generator](https://github.com/justjoolz/PRNG/blob/master/cadence/contracts/PRNG.cdc)
-- [Flipside Crypto SQL Editor](flipside.new)
+- [Flipside Crypto SQL Editor](https://flipside.new)
 - [bayou NFT Bulk Transfer Tool](https://flow.bayou33.app/)
 - [Flowview account explorer (mainnet)](https://www.flowview.app/)
 - [Flowview account explorer (testnet)](https://testnet.flowview.app/)
