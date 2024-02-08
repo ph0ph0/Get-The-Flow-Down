@@ -171,6 +171,9 @@ As always, the best place to start is with the official documentation. There you
 - [Offers (Cadence Test Framework Example)](https://github.com/onflow/Offers/tree/offers-implementation)
 - [Ticket Master - Business NFTs](https://flowscan.org/contract/A.e3ac5e6a6b6c63db.TMB2B/overview)
 - [Ticket Master - Digital Collectibles](https://flowscan.org/contract/A.a355799993b95813.TMAUNFT/overview)
+- [Flow Non-Fungible Token Standard](https://github.com/onflow/flow-nft)
+- [Fungible Token Standard](https://github.com/onflow/flow-ft)
+- [NFT Storefront Contract Standard](https://github.com/onflow/nft-storefront)
 
 ### Bootcamp Repos
 
