@@ -170,8 +170,8 @@ As always, the best place to start is with the official documentation. There you
 - [Flowty](https://github.com/Flowtyio)
 - [Rarible](https://github.com/rarible/flow-contracts/tree/main/contracts)
 - [Offers (Cadence Test Framework Example)](https://github.com/onflow/Offers/tree/offers-implementation)
-- [Ticket Master - Business NFTs](https://flowscan.org/contract/A.e3ac5e6a6b6c63db.TMB2B/overview)
-- [Ticket Master - Digital Collectibles](https://flowscan.org/contract/A.a355799993b95813.TMAUNFT/overview)
+- [Ticket Master - Business NFTs](https://contractbrowser.com/A.e3ac5e6a6b6c63db.TMB2B)
+- [Ticket Master - Digital Collectibles](https://contractbrowser.com/A.a355799993b95813.TMAUNFT)
 
 ### Bootcamp Repos
 
@@ -200,7 +200,7 @@ As always, the best place to start is with the official documentation. There you
 - [Playground](https://play.onflow.org/)
 - [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
 - [flow.bigdipper - Block Explorer](https://flow.bigdipper.live/)
-- [FlowScan - Block Explorer](https://flowscan.org/)
+- [Flow Diver - Block Explorer](https://flowdiver.io/)
 - [Testnet Faucet - Faucet and Account Creation](https://testnet-faucet.onflow.org/)
 - [Cadence-Webpack-Plugin](https://github.com/agencyenterprise/cadence-webpack-plugin)
 - [Flow Native Token List](https://github.com/FlowFans/flow-token-list)
