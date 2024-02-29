@@ -16,12 +16,18 @@ As always, the best place to start is with the official documentation. There you
 
 ## Other Communities
 
-- [Emerald City](https://discord.gg/emeraldcity)
-- [Decentology](https://discord.gg/BBRmMFsBqy)
+- [Emerald City](https://discord.gg/emerald-city-906264258189332541)
 - [Flowverse](https://discord.gg/q5Zq5QCEkG)
 
 ## Blogs, Guides and Tutorials
 
+- [Emerald Academy - Free educational resource to learn Cadence and everything about Flow Blockchain](https://academy.ecdao.org/)
+- [QuickNode - How to Create and Deploy a Smart Contract with Cadence on Flow](https://www.quicknode.com/guides/other-chains/flow/how-to-create-and-deploy-a-smart-contract-with-cadence-on-flow)
+- [Buildspace tutorial on shipping your own NFT collection on Flow with Cadence](https://buildspace.so/builds/flow-nfts)
+- [John Vester's Build a Digital Collectibles Portal Using Flow and Cadence](https://betterprogramming.pub/build-a-digital-collectibles-portal-using-flow-and-cadence-part-1-70f4019c6437)
+- [LearnWeb3 Flow Course](https://learnweb3.io/courses/flow-course/)
+- [Metaschool - Write your first smart contract on Flow Blockchain](https://metaschool.so/courses/write-fungible-token-flow-blockchain)
+- [Metacrafters Beginner Course on Flow](https://academy.metacrafters.io/content/flow-beginner)
 - [Joshua Hannan's Medium Profile](https://joshuahannan.medium.com/)
 - [Ben Ebner's Medium Profile](https://medium.com/@ebner.benjamin)
 - [Jacob Tucker's Flow Zero to Hero](https://github.com/jacob-tucker/Flow-Zero-to-Hero)
@@ -47,7 +53,6 @@ As always, the best place to start is with the official documentation. There you
 - [How to Create Multiple Accounts in the Flow Emulator](https://medium.com/@fullstackpho/how-to-create-multiple-accounts-in-the-flow-emulator-cc0a3076850f?sk=9cf0f959611da28be119531c70383a97)
 - [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
 - [Flow Blockchain Technical Papers](https://www.onflow.org/technical-paper)
-- [Guide to Flow Blockchain for Ethereum users](https://www.flowverse.co/articles/guide-to-flow-blockchain-for-ethereum-users)
 - [AssetHandover Sample dApp](https://github.com/Build-Squad/asset-handover)
 
 #### Cadence + Best Practices
@@ -146,7 +151,7 @@ As always, the best place to start is with the official documentation. There you
 
 ## DAOs
 
-- [Emerald City](https://discord.gg/hAsp2N9g)
+- [Emerald City](https://discord.gg/emerald-city-906264258189332541)
 
 ## Contracts, Code and Repos
 
@@ -198,6 +203,7 @@ As always, the best place to start is with the official documentation. There you
 - [Pinata](https://www.pinata.cloud/)
 - [VideoCoin](https://videocoin.network/)
 - [Blocto Wallet](https://blocto.portto.io/en/)
+- [Flow Reference Wallet](https://frw.gitbook.io/doc/)
 - [Flow CLI](https://github.com/onflow/flow-cli)
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
 - [Playground](https://play.onflow.org/)
@@ -211,6 +217,7 @@ As always, the best place to start is with the official documentation. There you
 - [Drizzle](https://github.com/33-Labs/drizzle)
 - [PRNG: Pseudo-Random Number Generator](https://github.com/justjoolz/PRNG/blob/master/cadence/contracts/PRNG.cdc)
 - [Flipside Crypto SQL Editor](flipside.new)
+- [QuickNode - end-to-end solution for accessing Flow blockchain nodes](https://www.quicknode.com/chains/flow)
 - [bayou NFT Bulk Transfer Tool](https://flow.bayou33.app/)
 - [Flowview account explorer (mainnet)](https://www.flowview.app/)
 - [Flowview account explorer (testnet)](https://testnet.flowview.app/)
