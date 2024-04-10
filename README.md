@@ -19,6 +19,19 @@ As always, the best place to start is with the official documentation. There you
 - [Emerald City](https://discord.gg/emerald-city-906264258189332541)
 - [Flowverse](https://discord.gg/q5Zq5QCEkG)
 
+## Resources & Tools to help you Update your Smart Contracts to Cadence 1.0
+- [Cadence 1.0 - homepage](https://flow.com/upgrade/crescendo/cadence-1)
+- [Cadence 1.0 Migration Guide](https://cadence-lang.org/docs/cadence-migration-guide)
+- [Cadence 1.0 Upgrade Plan](https://forum.flow.com/t/cadence-1-0-upgrade-plan/5477)
+- [Emerald Academy - Cadence 1.0 Beginner Course](https://academy.ecdao.org/en/catalog/courses/learn-cadence-beginner-1.0)
+- [Emerald Academy - Upgrading Capabilities](https://academy.ecdao.org/en/catalog/tutorials/capability-controllers)
+- [Emerald Academy - Upgrading Entitlements](https://academy.ecdao.org/en/catalog/tutorials/entitlements)
+- [Jacob Tucker Tutorial - How to Update your NFT Contract to Cadence 1.0](https://www.youtube.com/watch?v=vPXBpbaWMTs&ab_channel=JacobTucker)
+- [Flow Previewnet - official testing and development network for the Crescendo upgrade](https://developers.flow.com/networks/flow-networks/accessing-previewnet)
+- [PoC Cadence 1.0 upgrade tool](https://github.com/bluesign/cadenceUpgrader)
+- [Stable Cadence Migrator - automated migrator for Cadence scripts and transactions](https://github.com/MobileReality/stable-cadence-migrator)
+- [Cadence 1.0 Migration Helper CustomGPT](https://chat.openai.com/g/g-wMnnHS2Md-flow-cadence-1-0-migration-helper)
+
 ## Blogs, Guides and Tutorials
 
 - [Emerald Academy - Free educational resource to learn Cadence and everything about Flow Blockchain](https://academy.ecdao.org/)
@@ -38,7 +51,6 @@ As always, the best place to start is with the official documentation. There you
 - [How to build a simple Twitter app on Flow (A comprehensive introduction to building on Flow)](https://hackmd.io/@andrea-muttoni/web3-twitter)
 - [From Ethereum To Flow – An Introduction To The Flow Blockchain](https://dzone.com/articles/from-ethereum-to-flow-an-introduction-to-the-flow)
 - [Guide to Flow Blockchain for Ethereum Users](https://www.flowverse.co/articles/guide-to-flow-blockchain-for-ethereum-users)
-- [From Ethereum To Flow – An Introduction To The Flow Blockchain](https://dzone.com/articles/from-ethereum-to-flow-an-introduction-to-the-flow)
 - [Smart Contract Head-to-Head Ethereum vs Flow](https://dzone.com/articles/smart-contract-head-to-head-ethereum-vs-flow)
 - [An Overview of the Tools for Developing on Flow](https://dzone.com/articles/an-overview-of-the-tools-for-developing-on-flow-am)
 - [Flow NFT DApp Tutorial Series ](https://youtube.com/playlist?list=PLL5pYVd8AWtStx6jrAKKgJPjEznpqYbJh) by [ CodeXpert](http://youtube.com/@CodeXpert)
