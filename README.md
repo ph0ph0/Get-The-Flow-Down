@@ -175,7 +175,7 @@ As always, the best place to start is with the official documentation. There you
 - [Flunks](https://contractbrowser.com/account/0x807c3d470888cc48/contracts)
 - [Jolly Jokers](https://contractbrowser.com/account/0x699bf284101a76f1/contracts)
 - [Matrix World](https://github.com/MatrixLabsTech/matrix-world-assets-flow)
-- [Metaverse Football League](https://contractbrowser.com/account/0x8ebcbfd516b1da27/contracts)
+- [Metaverse Football League](https://github.com/Metaverse-Football-League/mfl-smart-contracts)
 - [Emerald DAO](https://github.com/emerald-dao)
 - [Toucans](https://github.com/emerald-dao/project-toucans-v2)
 - [FLOAT](https://github.com/emerald-dao/float)
