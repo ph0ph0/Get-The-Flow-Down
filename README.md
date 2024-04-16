@@ -245,6 +245,7 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Native Token List](https://github.com/FlowFans/flow-token-list)
 - [Flow Rosetta](https://github.com/onflow/rosetta#flowcoldstorageproxy-contract)
 - [Drizzle](https://github.com/33-Labs/drizzle)
+- [PRNG: Pseudo-Random Number Generator](https://github.com/justjoolz/PRNG/blob/master/cadence/contracts/PRNG.cdc)
 - [Flipside Crypto SQL Editor](https://flipside.new/)
 - [QuickNode - end-to-end solution for accessing Flow blockchain nodes](https://www.quicknode.com/chains/flow)
 - [bayou NFT Bulk Transfer Tool](https://flow.bayou33.app/)
