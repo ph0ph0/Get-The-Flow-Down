@@ -23,6 +23,7 @@ As always, the best place to start is with the official documentation. There you
 - [Cadence 1.0 - homepage](https://flow.com/upgrade/crescendo/cadence-1)
 - [Cadence 1.0 Migration Guide](https://cadence-lang.org/docs/cadence-migration-guide)
 - [Cadence 1.0 Upgrade Plan](https://forum.flow.com/t/cadence-1-0-upgrade-plan/5477)
+- [CryptoKitties: Arcade! - play-to-learn platform to help you learn to code cadence 1.0](https://arcade.ecdao.org/)
 - [Emerald Academy - Cadence 1.0 Beginner Course](https://academy.ecdao.org/en/catalog/courses/learn-cadence-beginner-1.0)
 - [Emerald Academy - Upgrading Capabilities](https://academy.ecdao.org/en/catalog/tutorials/capability-controllers)
 - [Emerald Academy - Upgrading Entitlements](https://academy.ecdao.org/en/catalog/tutorials/entitlements)
