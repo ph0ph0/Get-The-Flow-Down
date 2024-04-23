@@ -261,6 +261,9 @@ As always, the best place to start is with the official documentation. There you
 - [CAST - voting tool for communities on Flow](https://cast.fyi/)
 - [Link - make sure NFT Collections are set up properly](https://link.ecdao.org/)
 - [Run - run Cadence scripts and transactions directly from your browser](https://run.ecdao.org/)
+- [cdcq - A Cadence AST Query Tool](https://github.com/bluesign/cdcq)
+- [TokenList - 100% Onchain Permissionless Fungible Token List on Flow](https://token-list.fixes.world/)
+- [Flow Ordinal Inscriptions - Inscribe a domain, image or text on the Flow Blockchain](https://nft.flowverse.co/ordinals/create)
 
 ### Event Listeners/Monitors/Indexers
 
