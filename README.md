@@ -164,7 +164,6 @@ As always, the best place to start is with the official documentation. There you
 
 ## Contracts, Code and Repos
 
-- [Open Cadence](https://open-cadence.onflow.org/)
 - [Flow Core Contracts](https://github.com/onflow/flow-core-contracts)
 - [NFT Storefront Contract Standard - open marketplace ecosystem on Flow](https://github.com/onflow/nft-storefront)
 - [Learn Cadence - cadence-lang.org](https://github.com/onflow/cadence-lang.org)
