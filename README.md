@@ -46,6 +46,7 @@ As always, the best place to start is with the official documentation. There you
 - [Ben Ebner's Medium Profile](https://medium.com/@ebner.benjamin)
 - [Jacob Tucker's Flow Zero to Hero](https://github.com/jacob-tucker/Flow-Zero-to-Hero)
 - [.find - How to add rich metadata to your NFT on .Find](https://github.com/findonflow/find/blob/main/integratingMetadataViews.md)
+- [Create an Auto Battler Card Game on the Flow Blockchain Udemy course](https://www.udemy.com/course/create-an-auto-battler-card-game-on-the-flow-blockchain/)
 
 #### Intros to Flow, Cadence and the Ecosystem
 
@@ -143,6 +144,7 @@ As always, the best place to start is with the official documentation. There you
 - [CodeXpert Flow Tutorial 9 - Finalizing The Project](https://youtu.be/US6Vi1fUgp0)
 - [Learn Cadence - Hello World on Flow](https://www.youtube.com/watch?v=pRz7EzrWchs)
 - [Learn Flow/Cadence](https://www.youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
+- [Flow: Applications made possible by Cadence](https://www.youtube.com/watch?v=snL1yebnda0&ab_channel=Flow-Blockchain)
 - [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
 - [Metadata Standard on Flow featuring Jacob Tucker and Bjartek](https://www.youtube.com/watch?v=rgJRTozG3cw&t=758s)
 - [Marketplace Event Monitor Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
@@ -154,7 +156,6 @@ As always, the best place to start is with the official documentation. There you
 
 - [CodeXpert](http://youtube.com/@CodeXpert)
 - [Flow Blockchain](https://www.youtube.com/c/FlowBlockchain/featured)
-- [Decentology](https://www.youtube.com/c/Decentology)
 - [Jacob Tucker](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw)
 - [MorganW - FlowDeveloper](https://www.youtube.com/c/FlowDeveloper)
 
