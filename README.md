@@ -145,6 +145,7 @@ As always, the best place to start is with the official documentation. There you
 - [Learn Cadence - Hello World on Flow](https://www.youtube.com/watch?v=pRz7EzrWchs)
 - [Learn Flow/Cadence](https://www.youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
 - [Flow: Applications made possible by Cadence](https://www.youtube.com/watch?v=snL1yebnda0&ab_channel=Flow-Blockchain)
+- [EVM on Flow: Launching ERC20s on Flow and more](https://www.youtube.com/watch?v=VZUQbcUlBVA&ab_channel=Flow-Blockchain)
 - [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
 - [Metadata Standard on Flow featuring Jacob Tucker and Bjartek](https://www.youtube.com/watch?v=rgJRTozG3cw&t=758s)
 - [Marketplace Event Monitor Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
@@ -209,6 +210,10 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Non-Fungible Token Standard](https://github.com/onflow/flow-nft)
 - [Fungible Token Standard](https://github.com/onflow/flow-ft)
 - [NFT Storefront Contract Standard](https://github.com/onflow/nft-storefront)
+- [Flipside Crypto - dbt models for the Flow blockchain](https://github.com/FlipsideCrypto/flow-models)
+- [Graffle SDK tooling for the Flow Blockchain](https://github.com/Graffle/flow-c-sharp-graffle-sdk)
+- [METACRAFTERS Web 3 Course for Flow](https://github.com/EAM2050/Flow_Project3)
+- [Flowty Lost & Found - Smart contract that serves as a place to keep items for addresses to redeem](https://github.com/Flowtyio/lost-and-found)
 
 ### Bootcamp Repos
 
@@ -264,6 +269,7 @@ As always, the best place to start is with the official documentation. There you
 - [cdcq - A Cadence AST Query Tool](https://github.com/bluesign/cdcq)
 - [TokenList - 100% Onchain Permissionless Fungible Token List on Flow](https://token-list.fixes.world/)
 - [Flow Ordinal Inscriptions - Inscribe a domain, image or text on the Flow Blockchain](https://nft.flowverse.co/ordinals/create)
+- [Gigantik - No code platform for brands to launch NFTs on Flow](https://www.gigantik.io/)
 
 ### Event Listeners/Monitors/Indexers
 
