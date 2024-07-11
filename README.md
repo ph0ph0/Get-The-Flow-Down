@@ -200,6 +200,7 @@ As always, the best place to start is with the official documentation. There you
 - [Increment Fi](https://github.com/IncrementFi)
 - [Celer Network](https://github.com/celer-network)
 - [Fixes / FRC20](https://github.com/fixes-world/fixes/tree/main)
+- [MORE Markets](https://github.com/sher9n/more-markets)
 - [Wonderland](https://github.com/bz-hashtag-0780/wonderland)
 - [Basic Beasts](https://github.com/basicbeasts/)
 - [Flowty](https://github.com/Flowtyio)
@@ -214,6 +215,8 @@ As always, the best place to start is with the official documentation. There you
 - [Graffle SDK tooling for the Flow Blockchain](https://github.com/Graffle/flow-c-sharp-graffle-sdk)
 - [METACRAFTERS Web 3 Course for Flow](https://github.com/EAM2050/Flow_Project3)
 - [Flowty Lost & Found - Smart contract that serves as a place to keep items for addresses to redeem](https://github.com/Flowtyio/lost-and-found)
+- [Flow Reference Wallet - Open Source](https://frw.gitbook.io/doc/open-source/open-source)
+- [Electric Capital Flow Ecosystem - List of Flow Project Github repos](https://github.com/electric-capital/crypto-ecosystems/blob/master/data/ecosystems/f/flow.toml)
 
 ### Bootcamp Repos
 
