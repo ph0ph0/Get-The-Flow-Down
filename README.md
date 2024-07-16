@@ -172,6 +172,7 @@ As always, the best place to start is with the official documentation. There you
 - [KittyItems](https://github.com/onflow/kitty-items)
 - [CryptoDappy](https://github.com/bebner/crypto-dappy)
 - [NBA Top Shot](https://github.com/dapperlabs/nba-smart-contracts)
+- [LaLiga Golazos](https://github.com/dapperlabs/studio-platform-smart-contracts)
 - [NFL All Day](https://github.com/dapperlabs/nfl-smart-contracts)
 - [FanCraze](https://contractbrowser.com/account/0xed398881d9bf40fb/contracts)
 - [Hot Wheels](https://contractbrowser.com/account/0xd0bcefdf1e67ea85/contracts)
@@ -217,6 +218,11 @@ As always, the best place to start is with the official documentation. There you
 - [Flowty Lost & Found - Smart contract that serves as a place to keep items for addresses to redeem](https://github.com/Flowtyio/lost-and-found)
 - [Flow Reference Wallet - Open Source](https://frw.gitbook.io/doc/open-source/open-source)
 - [Electric Capital Flow Ecosystem - List of Flow Project Github repos](https://github.com/electric-capital/crypto-ecosystems/blob/master/data/ecosystems/f/flow.toml)
+- [Easinteraction - tool that help users to generate code for easier contract interaction](https://github.com/LemonNekoGH/easinteraction-for-cadence)
+- [GigLabs - A collection of GigLabs deployed Flow Smart Contracts for NFT Bridge](https://github.com/GigLabs/Flow)
+- [Grindery Nexus Connector Web3](https://github.com/grindery-io/grindery-nexus-connector-web3)
+- [Flow NFT Catalog](https://github.com/dapperlabs/nft-catalog)
+- [MFL Player Info](https://github.com/AliColeman170/mfl-player-info)
 
 ### Bootcamp Repos
 
