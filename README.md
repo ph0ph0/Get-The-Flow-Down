@@ -32,6 +32,8 @@ As always, the best place to start is with the official documentation. There you
 - [PoC Cadence 1.0 upgrade tool](https://github.com/bluesign/cadenceUpgrader)
 - [Stable Cadence Migrator - automated migrator for Cadence scripts and transactions](https://github.com/MobileReality/stable-cadence-migrator)
 - [Cadence 1.0 Migration Helper CustomGPT](https://chat.openai.com/g/g-wMnnHS2Md-flow-cadence-1-0-migration-helper)
+- [Need help migrating your contracts for Crescendo? Many of Flow’s hand-selected Certified Flow Developers are experts in Cadence 1.0 and can update everything end-to-end](https://flow.com/certified-developers)
+- [Contract Browser - connect an account and identify any non-upgraded contracts](https://contractbrowser.com/)
 
 ## Blogs, Guides and Tutorials
 
@@ -223,6 +225,12 @@ As always, the best place to start is with the official documentation. There you
 - [Grindery Nexus Connector Web3](https://github.com/grindery-io/grindery-nexus-connector-web3)
 - [Flow NFT Catalog](https://github.com/dapperlabs/nft-catalog)
 - [MFL Player Info](https://github.com/AliColeman170/mfl-player-info)
+- [Topshot Explorer](https://github.com/rrrkren/topshot-explorer)
+- [Flow Contract Browser](https://github.com/muttoni/contract-browser-new)
+- [Tibles](https://github.com/Tibles/tibles-smart-contracts)
+- [CAST](https://github.com/onflow/CAST)
+- [24 Karat smart contracts](https://github.com/24karat-gld/flow-24karat-contract)
+- [Cadence cookbook](https://github.com/onflow/cadence-cookbook)
 
 ### Bootcamp Repos
 
@@ -279,6 +287,10 @@ As always, the best place to start is with the official documentation. There you
 - [TokenList - 100% Onchain Permissionless Fungible Token List on Flow](https://token-list.fixes.world/)
 - [Flow Ordinal Inscriptions - Inscribe a domain, image or text on the Flow Blockchain](https://nft.flowverse.co/ordinals/create)
 - [Gigantik - No code platform for brands to launch NFTs on Flow](https://www.gigantik.io/)
+- [24Karat - Connecting brands/communities with fans](https://www.24karat.io/)
+- [Cadence Cookbook - Collection of code examples and best practices for developers working with Cadence](https://cadence-cookbook.vercel.app/)
+- [Emerald City Shield - The best way to get your Cadence code audited on Flow](https://docs.ecdao.org/auditing/shield)
+- [Turbine - An ECS-based fully on-chain game framework for Cadence smart contract language](https://www.turbine.run/)
 
 ### Event Listeners/Monitors/Indexers
 
