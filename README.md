@@ -32,6 +32,7 @@ As always, the best place to start is with the official documentation. There you
 - [PoC Cadence 1.0 upgrade tool](https://github.com/bluesign/cadenceUpgrader)
 - [Stable Cadence Migrator - automated migrator for Cadence scripts and transactions](https://github.com/MobileReality/stable-cadence-migrator)
 - [Cadence 1.0 Migration Helper CustomGPT](https://chat.openai.com/g/g-wMnnHS2Md-flow-cadence-1-0-migration-helper)
+- [Flowdiver - view contracts deployed to Previewnet](https://previewnet.flowdiver.io/)
 
 ## Blogs, Guides and Tutorials
 
@@ -223,6 +224,11 @@ As always, the best place to start is with the official documentation. There you
 - [Grindery Nexus Connector Web3](https://github.com/grindery-io/grindery-nexus-connector-web3)
 - [Flow NFT Catalog](https://github.com/dapperlabs/nft-catalog)
 - [MFL Player Info](https://github.com/AliColeman170/mfl-player-info)
+- [Emerald ID](https://github.com/emerald-dao/emerald-id)
+- [Cadence Cookbook](https://github.com/onflow/cadence-cookbook)
+- [Cadence Website](https://github.com/onflow/cadence-lang.org)
+- [runnerDnzDev by bluesign](https://github.com/bluesign/runnerDnzDev)
+- [Make! NFT](https://github.com/flow-japan/make)
 
 ### Bootcamp Repos
 
@@ -279,6 +285,7 @@ As always, the best place to start is with the official documentation. There you
 - [TokenList - 100% Onchain Permissionless Fungible Token List on Flow](https://token-list.fixes.world/)
 - [Flow Ordinal Inscriptions - Inscribe a domain, image or text on the Flow Blockchain](https://nft.flowverse.co/ordinals/create)
 - [Gigantik - No code platform for brands to launch NFTs on Flow](https://www.gigantik.io/)
+- [RaribleX - Launch a custom web3 marketplace for your brand](https://x.rarible.com/)
 
 ### Event Listeners/Monitors/Indexers
 
