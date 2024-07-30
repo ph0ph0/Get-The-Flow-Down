@@ -244,7 +244,6 @@ As always, the best place to start is with the official documentation. There you
 - [Overflow](https://github.com/bjartek/overflow)
 - [IPFS](https://ipfs.tech/)
 - [Pinata](https://www.pinata.cloud/)
-- [VideoCoin](https://videocoin.network/)
 - [Dynamic - web3-first authentication and authorization platform](https://www.dynamic.xyz/)
 - [Magic - SDK to simplify web3 wallet creation and onboarding](https://magic.link/)
 - [Blocto Wallet](https://blocto.io/)
