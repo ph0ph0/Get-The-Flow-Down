@@ -48,6 +48,8 @@ As always, the best place to start is with the official documentation. There you
 - [Jacob Tucker's Flow Zero to Hero](https://github.com/jacob-tucker/Flow-Zero-to-Hero)
 - [.find - How to add rich metadata to your NFT on .Find](https://github.com/findonflow/find/blob/main/integratingMetadataViews.md)
 - [Create an Auto Battler Card Game on the Flow Blockchain Udemy course](https://www.udemy.com/course/create-an-auto-battler-card-game-on-the-flow-blockchain/)
+- [How to easily launch an NFT on Flow Blockchain 2024 Edition - no code guide to launch NFTs on Flow](https://www.flowverse.co/flow-news/how-to-launch-an-nft-on-flow-blockchain-2024-edition)
+- [Crescendo Amplifies EVM Apps On Flow](https://www.flow.com/post/crescendo-amplifies-evm-apps-on-flow)
 
 #### Intros to Flow, Cadence and the Ecosystem
 
@@ -185,7 +187,7 @@ As always, the best place to start is with the official documentation. There you
 - [TuneGO](https://contractbrowser.com/account/0xc6945445cdbefec9/contracts)
 - [Dimension X](https://contractbrowser.com/account/0xe3ad6030cbaff1c2/contracts)
 - [Formula E](https://contractbrowser.com/account/0x964f3bf23a966563/contracts)
-- [USDC](https://github.com/flow-usdc/flow-usdc)
+- [USDC - Note: support for USDC on Flow will be discontinued Sept 3, 2024](https://github.com/flow-usdc/flow-usdc)
 - [.find](https://github.com/findonflow/find/tree/main/contracts)
 - [flovatar](https://github.com/crash13override/flovatar)
 - [Flunks](https://contractbrowser.com/account/0x807c3d470888cc48/contracts)
