@@ -20,6 +20,8 @@ As always, the best place to start is with the official documentation. There you
 - [Flowverse](https://discord.gg/q5Zq5QCEkG)
 
 ## Resources & Tools to help you Update your Smart Contracts to Cadence 1.0
+- [Twitter thread - only ~2 weeks to Crescendo Mainnet. All contracts not upgraded by Sept 4th will permanently break](https://x.com/AliSerag0/status/1823808382102565369)
+- [Video - Cadence 1.0 Migration: Key New Features, Essential Breaking Changes and Educational Resources](https://www.youtube.com/watch?v=ce2ClKNSgpE&list=PL0qVMKzYEBRN6MqlRJ8kI55OBvFgbwT1_) 
 - [Cadence 1.0 - homepage](https://flow.com/upgrade/crescendo/cadence-1)
 - [Cadence 1.0 Migration Guide](https://cadence-lang.org/docs/cadence-migration-guide)
 - [Cadence 1.0 Upgrade Plan](https://forum.flow.com/t/cadence-1-0-upgrade-plan/5477)
@@ -48,6 +50,7 @@ As always, the best place to start is with the official documentation. There you
 - [Jacob Tucker's Flow Zero to Hero](https://github.com/jacob-tucker/Flow-Zero-to-Hero)
 - [.find - How to add rich metadata to your NFT on .Find](https://github.com/findonflow/find/blob/main/integratingMetadataViews.md)
 - [Create an Auto Battler Card Game on the Flow Blockchain Udemy course](https://www.udemy.com/course/create-an-auto-battler-card-game-on-the-flow-blockchain/)
+- [EVM on Flow guide and documentation](https://developers.flow.com/evm/)
 
 #### Intros to Flow, Cadence and the Ecosystem
 
@@ -285,6 +288,7 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Ordinal Inscriptions - Inscribe a domain, image or text on the Flow Blockchain](https://nft.flowverse.co/ordinals/create)
 - [Gigantik - No code platform for brands to launch NFTs on Flow](https://www.gigantik.io/)
 - [RaribleX - Launch a custom web3 marketplace for your brand](https://x.rarible.com/)
+- [Ethernal block explorer for Flow EVM](https://flow-foundation.tryethernal.com/)
 
 ### Event Listeners/Monitors/Indexers
 
