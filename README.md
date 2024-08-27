@@ -233,10 +233,6 @@ As always, the best place to start is with the official documentation. There you
 - [runnerDnzDev by bluesign](https://github.com/bluesign/runnerDnzDev)
 - [Make! NFT](https://github.com/flow-japan/make)
 
-### Bootcamp Repos
-
-- [Decentology Fast Floward](https://github.com/decentology/fast-floward-1)
-
 ### Example Repos
 
 - [Multipart signing example (client+server)](https://github.com/MaxStalker/flow-multipart-sign-process)
@@ -289,6 +285,11 @@ As always, the best place to start is with the official documentation. There you
 - [Gigantik - No code platform for brands to launch NFTs on Flow](https://www.gigantik.io/)
 - [RaribleX - Launch a custom web3 marketplace for your brand](https://x.rarible.com/)
 - [Ethernal block explorer for Flow EVM](https://flow-foundation.tryethernal.com/)
+
+## EVM Tools (launching soon)
+- [Moralis - crypto API and RPC provider](https://moralis.io/)
+- [Simplehash - Instant access to NFT & token metadata, media, sales, floor prices and listings](https://simplehash.com/)
+- [Alchemy - leverage Flow's EVM endpoints](https://www.alchemy.com/)
 
 ### Event Listeners/Monitors/Indexers
 
