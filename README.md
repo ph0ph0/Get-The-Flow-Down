@@ -21,7 +21,7 @@ As always, the best place to start is with the official documentation. There you
 
 ## Important: Resources & Tools to help you update your Smart Contracts, transactions and scripts to Cadence 1.0
 
-The Crescendo network was completed on 4tb September 2024, bringing full EVM Equivalence and Cadence 1.0. This upgrade introduced breaking changes to cadence. Below you can find resources that will help you learn about Cadence 1.0 and upgrade your cadecne code.
+The Crescendo network upgrade was completed on 4th September 2024, bringing full EVM Equivalence and Cadence 1.0. This upgrade introduced breaking changes to cadence. Below you can find resources that will help you learn about Cadence 1.0 and upgrade your cadecne code.
 
 - [Video - Cadence 1.0 Migration: Key New Features, Essential Breaking Changes and Educational Resources](https://www.youtube.com/watch?v=ce2ClKNSgpE&list=PL0qVMKzYEBRN6MqlRJ8kI55OBvFgbwT1_) 
 - [Cadence 1.0 - homepage](https://flow.com/upgrade/crescendo/cadence-1)
