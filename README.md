@@ -19,8 +19,10 @@ As always, the best place to start is with the official documentation. There you
 - [Emerald City](https://discord.gg/emerald-city-906264258189332541)
 - [Flowverse](https://discord.gg/q5Zq5QCEkG)
 
-## Resources & Tools to help you Update your Smart Contracts to Cadence 1.0
-- [Twitter thread - only ~2 weeks to Crescendo Mainnet. All contracts not upgraded by Sept 4th will permanently break](https://x.com/AliSerag0/status/1823808382102565369)
+## Important: Resources & Tools to help you update your Smart Contracts, transactions and scripts to Cadence 1.0
+
+The Crescendo network was completed on 4tb September 2024, bringing full EVM Equivalence and Cadence 1.0. This upgrade introduced breaking changes to cadence. Below you can find resources that will help you learn about Cadence 1.0 and upgrade your cadecne code.
+
 - [Video - Cadence 1.0 Migration: Key New Features, Essential Breaking Changes and Educational Resources](https://www.youtube.com/watch?v=ce2ClKNSgpE&list=PL0qVMKzYEBRN6MqlRJ8kI55OBvFgbwT1_) 
 - [Cadence 1.0 - homepage](https://flow.com/upgrade/crescendo/cadence-1)
 - [Cadence 1.0 Migration Guide](https://cadence-lang.org/docs/cadence-migration-guide)
@@ -38,53 +40,32 @@ As always, the best place to start is with the official documentation. There you
 
 ## Blogs, Guides and Tutorials
 
+- [CryptoKitties: Arcade! - play-to-learn platform to help you learn to code cadence 1.0](https://arcade.ecdao.org/)
 - [Official Cadence language website and docs](https://cadence-lang.org/)
 - [Emerald Academy - Free educational resource to learn Cadence and everything about Flow Blockchain](https://academy.ecdao.org/)
-- [QuickNode - How to Create and Deploy a Smart Contract with Cadence on Flow](https://www.quicknode.com/guides/other-chains/flow/how-to-create-and-deploy-a-smart-contract-with-cadence-on-flow)
-- [John Vester's Build a Digital Collectibles Portal Using Flow and Cadence](https://betterprogramming.pub/build-a-digital-collectibles-portal-using-flow-and-cadence-part-1-70f4019c6437)
-- [LearnWeb3 Flow Course](https://learnweb3.io/courses/flow-course/)
-- [Metaschool - Write your first smart contract on Flow Blockchain](https://metaschool.so/courses/write-fungible-token-flow-blockchain)
-- [Metacrafters Beginner Course on Flow](https://academy.metacrafters.io/content/flow-beginner)
-- [Joshua Hannan's Medium Profile](https://joshuahannan.medium.com/)
-- [Ben Ebner's Medium Profile](https://medium.com/@ebner.benjamin)
-- [.find - How to add rich metadata to your NFT on .Find](https://github.com/findonflow/find/blob/main/integratingMetadataViews.md)
-- [Create an Auto Battler Card Game on the Flow Blockchain Udemy course](https://www.udemy.com/course/create-an-auto-battler-card-game-on-the-flow-blockchain/)
 - [EVM on Flow guide and documentation](https://developers.flow.com/evm/about)
+- [Create an Auto Battler Card Game on the Flow Blockchain Udemy course](https://www.udemy.com/course/create-an-auto-battler-card-game-on-the-flow-blockchain/)
+- [Launch an NFT/ NFTs without code on Flow Blockchain](https://www.flowverse.co/flow-news/how-to-launch-an-nft-on-flow-blockchain-2024-edition)
 
 #### Intros to Flow, Cadence and the Ecosystem
 
-- [How to build a simple Twitter app on Flow (A comprehensive introduction to building on Flow) - not updated for Flow EVM](https://hackmd.io/@andrea-muttoni/web3-twitter)
 - [From Ethereum To Flow – An Introduction To The Flow Blockchain](https://dzone.com/articles/from-ethereum-to-flow-an-introduction-to-the-flow)
 - [Smart Contract Head-to-Head Ethereum vs Flow](https://dzone.com/articles/smart-contract-head-to-head-ethereum-vs-flow)
 - [An Overview of the Tools for Developing on Flow](https://dzone.com/articles/an-overview-of-the-tools-for-developing-on-flow-am)
-- [Flow NFT DApp Tutorial Series - not updated for Flow EVM](https://youtube.com/playlist?list=PLL5pYVd8AWtStx6jrAKKgJPjEznpqYbJh) by [ CodeXpert](http://youtube.com/@CodeXpert)
-- [Taking your First Steps with Cadence](https://joshuahannan.medium.com/taking-your-first-steps-with-cadence-19dde86bbd0)
 - [Blockchain in a Nutshell](https://medium.com/coinmonks/blockchain-in-a-nutshell-85ea14e6c2fe)
 - [Inside Flow: The Multi-Node Architecture that Scales to Millions](https://www.onflow.org/post/flow-blockchain-multi-node-architecture-advantages)
-- [Cadence at a Glance](https://medium.com/@ebner.benjamin/cadence-at-a-glance-4e685c34b544)
 - [How Cadence and Flow will Revolutionize Smart Contract Programming](https://medium.com/coinmonks/how-cadence-and-flow-will-revolutionize-smart-contract-programming-607bd05b49b)
-- [Learn Cadence - Hello World - not updated for Flow EVM](https://www.youtube.com/playlist?list=PL0qVMKzYEBRPjxkssDa0-aG2cFlrv0sZV)
 - [How to Create Multiple Accounts in the Flow Emulator](https://medium.com/@fullstackpho/how-to-create-multiple-accounts-in-the-flow-emulator-cc0a3076850f?sk=9cf0f959611da28be119531c70383a97)
 - [awesome-flow - Flow Services and Tools for Developers](https://github.com/FlowFans/awesome-flow)
-- [Flow Blockchain Technical Papers](https://www.onflow.org/technical-paper)
-- [AssetHandover Sample dApp](https://github.com/Build-Squad/asset-handover)
+- [Flow Blockchain Technical Papers](https://flow.com/technical-paper)
 
 #### Cadence + Best Practices
 
 - [How I Organize My Cadence Projects](https://joshuahannan.medium.com/how-i-organize-my-cadence-projects-75b811b700d9)
-- [Cadence Design Patterns](https://docs.onflow.org/cadence/design-patterns/)
-- [Cadence Anti-Patterns](https://docs.onflow.org/cadence/anti-patterns/)
-- [How to add rich metadata to your Flow NFT](https://github.com/findonflow/find/blob/main/integratingMetadataViews.md)
-- [Cadence Optionals Demystified](https://joshuahannan.medium.com/optionals-in-cadence-not-optional-fb39bb4b0081)
-- [Creating a token on the Flow blockchain? Don’t forget this VITAL part! (Generic Object Casting to Concrete Types)](https://joshuahannan.medium.com/creating-a-token-on-the-flow-blockchain-dont-forget-this-vital-part-2607a19c7ccd)
-- [Introduction to Cadence Access Control](https://joshuahannan.medium.com/basic-access-control-in-cadence-28c5765c6ec0)
 - [Inside Flow: Cadence, The Language Made For Digital Assets (Useful for people with Ethereum/Solidity background)](https://www.onflow.org/post/flow-blockchain-cadence-programming-language-resources-assets)
-- [Accounts, Keys and Signing](https://docs.onflow.org/concepts/accounts-and-keys/)
 - [Signing a Transaction](https://developers.flow.com/tools/flow-cli/transactions/sign-transaction)
-- [Storing Data on Flow](https://docs.onflow.org/concepts/storage/)
 - [NFT MetadataViews](https://github.com/onflow/flow-nft/blob/master/contracts/MetadataViews.cdc)
 - [Smart Contract Audit Checklist](https://kenhuangus.medium.com/cadence-contract-security-internal-review-checklist-42964dc90a30)
-- [Simplifying Smart Contract Testing With the Cadence Test Framework](https://medium.com/@satyam0499/simplifying-smart-contract-testing-with-the-cadence-test-framework-9a5d4a62f6ab)
 
 #### FCL
 
@@ -98,15 +79,9 @@ As always, the best place to start is with the official documentation. There you
 
 #### NFTs
 
-- [Freshmint - All-in-one tool to deploy a decentralized NFT project - not updated for Flow EVM](https://github.com/onflow/freshmint)
-- [How to Create an NFT with Flow and NFT.Storage](https://medium.com/@qq976739120/how-to-create-an-nft-with-flow-and-nft-storage-1ccce45797b0)
-- [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 1  - not updated for Flow EVM](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf)
-- [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 2 - not updated for Flow EVM](https://medium.com/pinata/how-to-display-your-nft-collection-like-nba-top-shot-with-flow-and-ipfs-6ba75048bf8a)
-- [How to Create NFTs Like NBA Top Shot With Flow and IPFS - Part 3 - not updated for Flow EVM](https://medium.com/pinata/how-to-create-an-nft-marketplace-on-flow-with-ipfs-a162a1aeb426)
-- [How to Create NFTs with IPFS and Digital Art - not updated for Flow EVM](https://medium.com/pinata/ipfs-nfts-and-persistent-artwork-50a129587a36)
+- [How to Create NFTs with IPFS and Digital Art](https://medium.com/pinata/ipfs-nfts-and-persistent-artwork-50a129587a36)
 - [The File Requirements for NFTs](https://medium.com/pinata/the-file-requirements-for-nfts-a20ea3ac524b)
 - [Creating The Party Gooberz — the complete story by Erick White](https://medium.com/@The.Party.Gooberz/creating-the-the-party-gooberz-the-complete-story-by-erick-white-621a93a6e94e)
-- [How signed messages can safeguard your drop against bot attacks on Flow](https://medium.com/@luca_flovatar/how-signed-messages-can-safeguard-your-drop-against-bot-attacks-on-flow-3b13071229e0)
 - [Introducing NFT.Storage: Free Decentralized Storage for NFTs](https://filecoin.io/blog/posts/introducing-nft.storage-free-decentralized-storage-for-nfts/)
 - [Add Content to IPFS and Retrieve It · Decentralized Web Primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/files-on-ipfs/lessons/add-and-retrieve-file-content.html)
 - [Decentralized data storage using IPFS and React: A tutorial with examples - LogRocket Blog](https://blog.logrocket.com/decentralized-data-storage-using-ipfs-and-react-a-tutorial-with-examples/)
@@ -117,7 +92,7 @@ As always, the best place to start is with the official documentation. There you
 
 - [Javascript SDK](https://github.com/onflow/fcl-js)
 - [Go SDK](https://github.com/onflow/flow-go-sdk)
-- [Java and Kotlin - JVM SDK](https://github.com/the-nft-company/flow-jvm-sdk)
+- [Java and Kotlin](https://github.com/the-nft-company/flow-jvm-sdk)
 
 ### Community Supported
 
@@ -133,17 +108,6 @@ As always, the best place to start is with the official documentation. There you
 
 #### Tutorials
 
-- [CodeXpert Flow Tutorial 1 - Welcome, References & Installation - not updated for Flow EVM](https://youtu.be/dnP6PovY4wI)
-- [CodeXpert Flow Tutorial 2 - Creating Basic NFT Smart Contract - not updated for Flow EVM](https://youtu.be/qLiSPOKXkng)
-- [CodeXpert Flow Tutorial 3 - Creating Basic NFT Token - not updated for Flow EVM](https://youtu.be/Q8z5GHA1sf8)
-- [CodeXpert Flow Tutorial 4 - Writing Scripts for NFTs - not updated for Flow EVM](https://youtu.be/F8eHS4VmVMA)
-- [CodeXpert Flow Tutorial 5 - Transferring NFT to Another Account - not updated for Flow EVM](https://youtu.be/wvdH0vS5QNs)
-- [CodeXpert Flow Tutorial 6 - Creating React DApp - not updated for Flow EVM](https://youtu.be/NzKTXtHW4vo)
-- [CodeXpert Flow Tutorial 7 - Deploying Smart Contract to Testnet - not updated for Flow EVM](https://youtu.be/fu-pQcWj0RY)
-- [CodeXpert Flow Tutorial 8 - Creating NFT Through DApp - not updated for Flow EVM](https://youtu.be/SQK5ckf0kwk)
-- [CodeXpert Flow Tutorial 9 - Finalizing The Project - not updated for Flow EVM](https://youtu.be/US6Vi1fUgp0)
-- [Learn Cadence - Hello World on Flow - not updated for Flow EVM](https://www.youtube.com/watch?v=pRz7EzrWchs)
-- [Learn Flow/Cadence - not updated for Flow EVM](https://www.youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
 - [Flow: Applications made possible by Cadence](https://www.youtube.com/watch?v=snL1yebnda0&ab_channel=Flow-Blockchain)
 - [EVM on Flow: Launching ERC20s on Flow and more](https://www.youtube.com/watch?v=VZUQbcUlBVA&ab_channel=Flow-Blockchain)
 - [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
@@ -155,10 +119,8 @@ As always, the best place to start is with the official documentation. There you
 
 #### YouTube Channels
 
-- [CodeXpert](http://youtube.com/@CodeXpert)
 - [Flow Blockchain](https://www.youtube.com/c/FlowBlockchain/featured)
 - [Jacob Tucker](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw)
-- [MorganW - FlowDeveloper](https://www.youtube.com/c/FlowDeveloper)
 
 ## DAOs
 
@@ -169,8 +131,6 @@ As always, the best place to start is with the official documentation. There you
 - [Flow Core Contracts](https://github.com/onflow/flow-core-contracts)
 - [NFT Storefront Contract Standard - open marketplace ecosystem on Flow](https://github.com/onflow/nft-storefront)
 - [Learn Cadence - cadence-lang.org](https://github.com/onflow/cadence-lang.org)
-- [KittyItems](https://github.com/onflow/kitty-items)
-- [CryptoDappy](https://github.com/bebner/crypto-dappy)
 - [NBA Top Shot](https://github.com/dapperlabs/nba-smart-contracts)
 - [LaLiga Golazos](https://github.com/dapperlabs/studio-platform-smart-contracts)
 - [NFL All Day](https://github.com/dapperlabs/nfl-smart-contracts)
@@ -227,10 +187,6 @@ As always, the best place to start is with the official documentation. There you
 - [runnerDnzDev by bluesign](https://github.com/bluesign/runnerDnzDev)
 - [Make! NFT](https://github.com/flow-japan/make)
 
-### Example Repos
-
-- [Multipart signing example (client+server)](https://github.com/MaxStalker/flow-multipart-sign-process)
-
 ## Tools
 
 - [Cadence Utilities aka Flow CadUt](https://github.com/onflow/flow-cadut)
@@ -279,10 +235,13 @@ As always, the best place to start is with the official documentation. There you
 - [RaribleX - Launch a custom web3 marketplace for your brand](https://x.rarible.com/)
 - [Ethernal block explorer for Flow EVM](https://flow-foundation.tryethernal.com/)
 
-## EVM Tools (launching soon)
+## EVM Tools 
 - [Moralis - crypto API and RPC provider](https://moralis.io/)
 - [Simplehash - Instant access to NFT & token metadata, media, sales, floor prices and listings](https://simplehash.com/)
 - [Alchemy - leverage Flow's EVM endpoints](https://www.alchemy.com/)
+- [Band Protocol](https://blog.bandprotocol.com/bandprotocol-integration-with-flow-crescendo/)
+- [Buildtree](https://buildtree.io/)
+- [Pyth Network](https://www.pyth.network/)
 
 ### Event Listeners/Monitors/Indexers
 
