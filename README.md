@@ -21,7 +21,7 @@ As always, the best place to start is with the official documentation. There you
 
 ## Important: Resources & Tools to help you update your Smart Contracts, transactions and scripts to Cadence 1.0
 
-The Crescendo network upgrade was completed on 4th September 2024, bringing full EVM Equivalence and Cadence 1.0. This upgrade introduced breaking changes to cadence. Below you can find resources that will help you learn about Cadence 1.0 and upgrade your cadecne code.
+The Crescendo network upgrade was completed on 4th September 2024, bringing full EVM Equivalence and Cadence 1.0. This upgrade introduced breaking changes to cadence. Below you can find resources that will help you learn about Cadence 1.0 and upgrade your cadence code.
 
 - [Video - Cadence 1.0 Migration: Key New Features, Essential Breaking Changes and Educational Resources](https://www.youtube.com/watch?v=ce2ClKNSgpE&list=PL0qVMKzYEBRN6MqlRJ8kI55OBvFgbwT1_) 
 - [Cadence 1.0 - homepage](https://flow.com/upgrade/crescendo/cadence-1)
@@ -46,6 +46,8 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [EVM on Flow guide and documentation](https://developers.flow.com/evm/about)
 - [Create an Auto Battler Card Game on the Flow Blockchain Udemy course](https://www.udemy.com/course/create-an-auto-battler-card-game-on-the-flow-blockchain/)
 - [Launch an NFT/ NFTs without code on Flow Blockchain](https://www.flowverse.co/flow-news/how-to-launch-an-nft-on-flow-blockchain-2024-edition)
+- [Building the Future of Web3: How Flow Blockchain’s Modular Design Enables Massive Scalability](https://www.blockdaemon.com/blog/how-flow-blockchains-modular-design-enables-massive-scalability)
+- [Edgevana Research - Flow State deep dive report](https://www.edgevana.com/edgevana-research?article=flow)
 
 #### Intros to Flow, Cadence and the Ecosystem
 
@@ -242,6 +244,7 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Band Protocol](https://blog.bandprotocol.com/bandprotocol-integration-with-flow-crescendo/)
 - [Buildtree](https://buildtree.io/)
 - [Pyth Network](https://www.pyth.network/)
+- [SEDA Protocol - Programmable Oracle Infrastructure](https://www.seda.xyz/)
 
 ### Event Listeners/Monitors/Indexers
 
