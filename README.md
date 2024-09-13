@@ -1,4 +1,4 @@
-# Get the Flow Down - Flow Learning Resources
+![image](https://github.com/user-attachments/assets/e9408393-3fd6-449f-ab00-7d6f04a45435)# Get the Flow Down - Flow Learning Resources
 
 Get the Flow Down is a curated collection of the best Flow blockchain tools, tutorials, articles and more! If you have come across an awesome tutorial, tool, community, blog or you have created one yourself, please create a PR!
 
@@ -32,11 +32,9 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Emerald Academy - Upgrading Capabilities](https://academy.ecdao.org/en/catalog/tutorials/capability-controllers)
 - [Emerald Academy - Upgrading Entitlements](https://academy.ecdao.org/en/catalog/tutorials/entitlements)
 - [Jacob Tucker Tutorial - How to Update your NFT Contract to Cadence 1.0](https://www.youtube.com/watch?v=vPXBpbaWMTs&ab_channel=JacobTucker)
-- [Flow Previewnet - official testing and development network for the Crescendo upgrade](https://developers.flow.com/networks/flow-networks/accessing-previewnet)
 - [PoC Cadence 1.0 upgrade tool](https://github.com/bluesign/cadenceUpgrader)
 - [Stable Cadence Migrator - automated migrator for Cadence scripts and transactions](https://github.com/MobileReality/stable-cadence-migrator)
 - [Cadence 1.0 Migration Helper CustomGPT](https://chat.openai.com/g/g-wMnnHS2Md-flow-cadence-1-0-migration-helper)
-- [Flowdiver - view contracts deployed to Previewnet](https://previewnet.flowdiver.io/)
 
 ## Blogs, Guides and Tutorials
 
@@ -96,7 +94,7 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Go SDK](https://github.com/onflow/flow-go-sdk)
 - [Java and Kotlin](https://github.com/the-nft-company/flow-jvm-sdk)
 
-### Community Supported
+### Community Supported - note some may not be updated for Flow Crescendo
 
 - [C# SDK](https://github.com/DCoding64/csharp-flow-sdk)
 - [Dart SDK](https://github.com/MaxStalker/flow-dart-sdk)
@@ -112,12 +110,18 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 
 - [Flow: Applications made possible by Cadence](https://www.youtube.com/watch?v=snL1yebnda0&ab_channel=Flow-Blockchain)
 - [EVM on Flow: Launching ERC20s on Flow and more](https://www.youtube.com/watch?v=VZUQbcUlBVA&ab_channel=Flow-Blockchain)
-- [Flow Marketplace Event Monitor, Office Hours Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
-- [Metadata Standard on Flow featuring Jacob Tucker and Bjartek](https://www.youtube.com/watch?v=rgJRTozG3cw&t=758s)
-- [Marketplace Event Monitor Demo](https://www.youtube.com/watch?v=lvoJbIFjyqM)
-- [Witchcraft and Wizardry - A Trading Non-Fungible Card Game - not updated for Flow EVM](https://github.com/alilloig/tnfcg)
-- [MaxStalker flow multipart sign process - not updated for Flow EVM](https://github.com/MaxStalker/flow-multipart-sign-process)
+- [Metadata Standard on Flow featuring Jacob Tucker and Bjartek - not up to date for Flow Crescendo](https://www.youtube.com/watch?v=rgJRTozG3cw&t=758s)
 - [Flipside Crypto - Flow Blockchain SQL Training with NFL All Day](https://www.youtube.com/watch?v=E7Tan7HEnhE)
+- [Jacob Tucker - Cadence 1.0 - Thinking about Entitlements](https://www.youtube.com/watch?v=zb6mF0qTljs)
+- [Jacob Tucker - Adding Magic Link to your Flow blockchain dapp](https://www.youtube.com/watch?v=MUQBfoOF0-Q)
+- [Jacob Tucker - Cadence 1.0 - Fungible Token Standard](https://www.youtube.com/watch?v=UkITgslpOFo)
+- [Jacob Tucker - Cadence 1.0 - Burner Pattern](https://www.youtube.com/watch?v=J7ydcPBvoto)
+- [Jacob Tucker - CryptoKitties Arcade! Chapter 1 Walkthrough](https://www.youtube.com/watch?v=Q8VBseGmtqE)
+- [Jacob Tucker - How to configure NFT metadata views in Cadence](https://www.youtube.com/watch?v=NXAW7ECkyOg)
+- [Jacob Tucker - Cadence 1.0 - View Functions](https://www.youtube.com/watch?v=eZwHzRLVZdU)
+- [Jacob Tucker - How to upgrade your NFT Contract to Cadence 1.0](https://www.youtube.com/watch?v=vPXBpbaWMTs&t=4s)
+- [Jacob Tucker - Learn Cadence 1.0 - Capability Controllers](https://www.youtube.com/watch?v=I8bzDAyI9Yo)
+- [Jacob Tucker - Learn Cadence 1.0 - Entitlements](https://www.youtube.com/watch?v=aZ1aCBtPpXo)
 
 #### YouTube Channels
 
@@ -130,6 +134,7 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 
 ## Contracts, Code and Repos
 
+- [Electric Capital Flow Ecosystem - List of Flow Project Github repos](https://github.com/electric-capital/crypto-ecosystems/blob/master/data/ecosystems/f/flow.toml)
 - [Flow Core Contracts](https://github.com/onflow/flow-core-contracts)
 - [NFT Storefront Contract Standard - open marketplace ecosystem on Flow](https://github.com/onflow/nft-storefront)
 - [Learn Cadence - cadence-lang.org](https://github.com/onflow/cadence-lang.org)
@@ -145,8 +150,6 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [MotoGP](https://contractbrowser.com/account/0xa49cc0ee46c54bfb/contracts)
 - [TuneGO](https://contractbrowser.com/account/0xc6945445cdbefec9/contracts)
 - [Dimension X](https://contractbrowser.com/account/0xe3ad6030cbaff1c2/contracts)
-- [Formula E](https://contractbrowser.com/account/0x964f3bf23a966563/contracts)
-- [USDC](https://github.com/flow-usdc/flow-usdc)
 - [.find](https://github.com/findonflow/find/tree/main/contracts)
 - [flovatar](https://github.com/crash13override/flovatar)
 - [Flunks](https://contractbrowser.com/account/0x807c3d470888cc48/contracts)
@@ -177,27 +180,22 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [METACRAFTERS Web 3 Course for Flow](https://github.com/EAM2050/Flow_Project3)
 - [Flowty Lost & Found - Smart contract that serves as a place to keep items for addresses to redeem](https://github.com/Flowtyio/lost-and-found)
 - [Flow Reference Wallet - Open Source](https://frw.gitbook.io/doc/open-source/open-source)
-- [Electric Capital Flow Ecosystem - List of Flow Project Github repos](https://github.com/electric-capital/crypto-ecosystems/blob/master/data/ecosystems/f/flow.toml)
 - [Easinteraction - tool that help users to generate code for easier contract interaction](https://github.com/LemonNekoGH/easinteraction-for-cadence)
 - [GigLabs - A collection of GigLabs deployed Flow Smart Contracts for NFT Bridge](https://github.com/GigLabs/Flow)
 - [Grindery Nexus Connector Web3](https://github.com/grindery-io/grindery-nexus-connector-web3)
-- [Flow NFT Catalog](https://github.com/dapperlabs/nft-catalog)
 - [MFL Player Info](https://github.com/AliColeman170/mfl-player-info)
 - [Emerald ID](https://github.com/emerald-dao/emerald-id)
 - [Cadence Cookbook](https://github.com/onflow/cadence-cookbook)
 - [Cadence Website](https://github.com/onflow/cadence-lang.org)
 - [runnerDnzDev by bluesign](https://github.com/bluesign/runnerDnzDev)
-- [Make! NFT](https://github.com/flow-japan/make)
 
 ## Tools
 
 - [Cadence Utilities aka Flow CadUt](https://github.com/onflow/flow-cadut)
 - [Flow Code Coverage - Code Coverage Support for Flow Emulator](https://github.com/Build-Squad/flow-code-coverage)
 - [Cadence Documentation Generator](https://github.com/onflow/cadence-tools/tree/master/docgen)
-- [go-with-the-flow](https://github.com/bjartek/go-with-the-flow)
 - [NFT.Storage](https://nft.storage/#about)
 - [Flow Contract Browser](https://contractbrowser.com/)
-- [Flow NFT Catalog - Browse NFT collections on the catalog and view their collection-level data](https://www.flow-nft-catalog.com/)
 - [Overflow](https://github.com/bjartek/overflow)
 - [IPFS](https://ipfs.tech/)
 - [Pinata](https://www.pinata.cloud/)
@@ -207,14 +205,10 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Flow Reference Wallet](https://frw.gitbook.io/doc/)
 - [Flow CLI](https://github.com/onflow/flow-cli)
 - [Flow Emulator](https://github.com/onflow/flow-emulator)
-- [Playground](https://play.onflow.org/)
-- [Command Line Linter for Flow CLI](https://github.com/samatechtw/cadence-lint)
+- [Playground](https://play.flow.com/)
 - [Flow Diver - Block Explorer](https://flowdiver.io/)
 - [Testnet Faucet - Faucet and Account Creation](https://testnet-faucet.onflow.org/)
-- [Cadence-Webpack-Plugin](https://github.com/agencyenterprise/cadence-webpack-plugin)
-- [Flow Native Token List](https://github.com/FlowFans/flow-token-list)
 - [Flow Rosetta](https://github.com/onflow/rosetta#flowcoldstorageproxy-contract)
-- [Drizzle](https://github.com/33-Labs/drizzle)
 - [PRNG: Pseudo-Random Number Generator](https://github.com/justjoolz/PRNG/blob/master/cadence/contracts/PRNG.cdc)
 - [Flipside Crypto SQL Editor](https://flipside.new/)
 - [QuickNode - end-to-end solution for accessing Flow blockchain nodes](https://www.quicknode.com/chains/flow)
@@ -235,9 +229,9 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Flow Ordinal Inscriptions - Inscribe a domain, image or text on the Flow Blockchain](https://nft.flowverse.co/ordinals/create)
 - [Gigantik - No code platform for brands to launch NFTs on Flow](https://www.gigantik.io/)
 - [RaribleX - Launch a custom web3 marketplace for your brand](https://x.rarible.com/)
-- [Ethernal block explorer for Flow EVM](https://flow-foundation.tryethernal.com/)
 
 ## EVM Tools 
+- [Flowscan EVM - block explorer for Flow EVM](https://evm.flowscan.io/)
 - [Moralis - crypto API and RPC provider](https://moralis.io/)
 - [Simplehash - Instant access to NFT & token metadata, media, sales, floor prices and listings](https://simplehash.com/)
 - [Alchemy - leverage Flow's EVM endpoints](https://www.alchemy.com/)
@@ -245,11 +239,14 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Buildtree](https://buildtree.io/)
 - [Pyth Network](https://www.pyth.network/)
 - [SEDA Protocol - Programmable Oracle Infrastructure](https://www.seda.xyz/)
+- [Mintify - The NFT Orderbook](https://mintify.xyz/)
+- [WalletConnect - user onboarding solution](https://walletconnect.com/)
+- [Privy - user onboarding solution](https://www.privy.io/)
+- [Ethernal block explorer for Flow EVM](https://flow-foundation.tryethernal.com/)
+
 
 ### Event Listeners/Monitors/Indexers
 
 - [Graffle](https://graffle.io/)
-- [Flow Scanner](https://github.com/rayvin-flow/flow-scanner)
-- [Flow Event Monitor](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
-- [Flow Beam](https://github.com/rayvin-flow/flow-beam)
+- [Flow Event Monitor - not up to date for Flow Crescendo](https://github.com/ph0ph0/FlowMarketplaceEventMonitor)
 - [Flowser - Flow Network Indexer and Inspector](https://github.com/onflowser/flowser)
