@@ -46,6 +46,7 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Create an Auto Battler Card Game on the Flow Blockchain Udemy course](https://www.udemy.com/course/create-an-auto-battler-card-game-on-the-flow-blockchain/)
 - [Building the Future of Web3: How Flow Blockchain’s Modular Design Enables Massive Scalability](https://www.blockdaemon.com/blog/how-flow-blockchains-modular-design-enables-massive-scalability)
 - [Edgevana Research - Flow State deep dive report](https://www.edgevana.com/edgevana-research?article=flow)
+- [Why I’m excited about EVM on Flow](https://medium.com/@ramtin/why-im-excited-about-evm-on-flow-d464511323d4)
 - [Quickstarts - Start your adventure on the Flow Blockchain and Cadence by hacking real dapps](https://academy.ecdao.org/en/quickstarts)
 
 #### Intros to Flow, Cadence and the Ecosystem
@@ -238,6 +239,8 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Gigantik - No code platform for brands to launch NFTs on Flow](https://www.gigantik.io/)
 - [RaribleX - Launch a custom web3 marketplace for your brand](https://x.rarible.com/)
 - [Flow Assistant GPT - Ask me your Flow and Cadence questions](https://chatgpt.com/g/g-a1jOaEj1h-flow-assistant)
+- [Flowty Self-service Launchpad - Create an NFT collection in under 5 mins regardless of experience or skills](https://www.flowty.io/create)
+- [Flow Rewards - feature your app in the Flow Rewards ecosystem](https://rewards.flow.com/)
 
 ## EVM Tools 
 - [Flowscan EVM - block explorer for Flow EVM](https://evm.flowscan.io/)
@@ -252,7 +255,9 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [WalletConnect - user onboarding solution](https://walletconnect.com/)
 - [Privy - user onboarding solution](https://www.privy.io/)
 - [Ethernal block explorer for Flow EVM](https://flow-foundation.tryethernal.com/)
-
+- [Reservoir - Flow NFT API](https://docs.reservoir.tools/reference/flow-nft-api)
+- [Celer Network - bridge $USDC between the new Flow EVM and Ethereum](http://cbridge.celer.network)
+- [Ankr - Liquid staking on Flow EVM](https://www.ankr.com/staking-crypto/flow-flowevm/)
 
 ### Event Listeners/Monitors/Indexers
 
