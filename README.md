@@ -256,6 +256,7 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 - [Reservoir - Flow NFT API](https://docs.reservoir.tools/reference/flow-nft-api)
 - [Celer Network - bridge $USDC between the new Flow EVM and Ethereum](http://cbridge.celer.network)
 - [Ankr - Liquid staking on Flow EVM](https://www.ankr.com/staking-crypto/flow-flowevm/)
+- [Flowfun - Flow EVM native NFT launchpad](https://flowfun.xyz/)
 
 ### Event Listeners/Monitors/Indexers
 
