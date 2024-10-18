@@ -50,9 +50,8 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 
 #### Intros to Flow, Cadence and the Ecosystem
 
-- [From Ethereum To Flow – An Introduction To The Flow Blockchain](https://dzone.com/articles/from-ethereum-to-flow-an-introduction-to-the-flow)
-- [Smart Contract Head-to-Head Ethereum vs Flow](https://dzone.com/articles/smart-contract-head-to-head-ethereum-vs-flow)
-- [An Overview of the Tools for Developing on Flow](https://dzone.com/articles/an-overview-of-the-tools-for-developing-on-flow-am)
+- [Understanding Flow: A Comprehensive Overview](https://messari.io/report/understanding-flow-a-comprehensive-overview)
+- [CoinMetrics - An Overview of the Flow Blockchain](https://coinmetrics.io/state-of-the-network/an-overview-of-the-flow-blockchain/)
 - [Blockchain in a Nutshell](https://medium.com/coinmonks/blockchain-in-a-nutshell-85ea14e6c2fe)
 - [Inside Flow: The Multi-Node Architecture that Scales to Millions](https://www.onflow.org/post/flow-blockchain-multi-node-architecture-advantages)
 - [How to Create Multiple Accounts in the Flow Emulator](https://medium.com/@fullstackpho/how-to-create-multiple-accounts-in-the-flow-emulator-cc0a3076850f?sk=9cf0f959611da28be119531c70383a97)
@@ -242,6 +241,7 @@ The Crescendo network upgrade was completed on 4th September 2024, bringing full
 
 ## EVM Tools 
 - [Flowscan EVM - block explorer for Flow EVM](https://evm.flowscan.io/)
+- [Bitquery Block Explorer](https://explorer.bitquery.io/flow)
 - [Moralis - crypto API and RPC provider](https://moralis.io/)
 - [Simplehash - Instant access to NFT & token metadata, media, sales, floor prices and listings](https://simplehash.com/)
 - [Alchemy - leverage Flow's EVM endpoints](https://www.alchemy.com/)
